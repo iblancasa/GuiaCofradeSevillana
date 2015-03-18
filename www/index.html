@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/jquery.mobile.flatui.css" />
+  <script src="js/jquery.js"></script>
+  <script src="js/jquery.mobile-1.4.0-rc.1.js"></script>
+  <style>
+   #map-canvas {
+      height: 100%;
+      margin: 0px;
+      padding: 0px
+
+    }
+  </style>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+  <script>
+var map;
+function initialize() {
+var mapOptions = {
+  zoom: 8,
+  center: new google.maps.LatLng(-34.397, 150.644)
+};
+map = new google.maps.Map(document.getElementById('map-canvas'),
+    mapOptions);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+  </script>
+</head>
+<body  style="width:100%; height:100%">
+  <div id="page" data-role="page"  style="width:100%; height:100%">
+
+    <div data-role="panel" id="panel" data-position="left" data-theme="a" data-display="push"></div>
+
+    <div data-role="header">
+      <a data-iconpos="notext" data-role="button" data-icon="home" title="Home">Home</a>
+      <h1>A</h1>
+      <a data-iconpos="notext" href="#panel" data-role="button" data-icon="flat-menu"></a>
+    </div>
+
+
+      <div id="map-canvas" data-role="content" role="main"  style="width:1500px; height:1500px"></div>
+
+  <div id="highlight"> </div>
+</div>
+
+</body>
+</html>
