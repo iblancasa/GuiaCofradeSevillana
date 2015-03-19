@@ -5,17 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="css/jquery.mobile.flatui.css" />
+  <link rel="stylesheet" type="text/css" href="css/hermandades.css" />
   <script src="js/jquery.js"></script>
   <script src="js/jquery.mobile-1.4.0-rc.1.js"></script>
   <style>
    #map-canvas {
-      height: 100%;
-      margin: 0px;
-      padding: 0px
+     display: block;
+position:absolute;
+height:auto;
+bottom:0;
+top:0;
+left:0;
+right:0;
     }
   </style>
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
   <script src="js/map.js"></script>
+
+
+
 </head>
 <body  style="width:100%; height:100%">
   <div id="page" data-role="page"  style="width:100%; height:100%">
@@ -23,9 +31,12 @@
     <div data-role="panel" id="panel" data-position="left" data-theme="a" data-display="push">
 
       <ul data-role="listview" data-inset="false" data-filter="false">
-          <li><a href="#">Mapa</a></li>
+          <li><a  href="#">Mapa</a></li>
           <li><a href="#">Hermandades</a></li>
           <li><a href="#">Créditos</a></li>
+
+
+
       </ul>
 
     </div>
@@ -34,11 +45,35 @@
       <a href="#panel" data-role="button" ><i class="fa fa-reorder fa-3x"></i></a>
       <h1>Guía cofrade Sevillana</h1>
     </div>
+    <div id="hermandad" data-role="content" role="main"  >
+      <h1>Esperanza de Triana</h1>
+      <a href="#" id="cerrar">CERRAR</a>
+      <p>Pontificia, Real e Ilustre Hermandad y Archicofradía de Nazarenos del Santísimo Sacramento y de la Pura y Limpia Concepción de la Santísima Virgen María, del Santísimo Cristo de las Tres Caídas, Nuestra Señora de la Esperanza y San Juan Evangelista</p>
+      <img src="img/hermandades/madruga/triana/cristo.png"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor tortor, commodo sollicitudin euismod commodo, ultrices id eros. Nullam vitae lectus pellentesque ex dapibus imperdiet. In libero mi, condimentum ut feugiat vitae, vehicula a magna. Duis est ipsum, ultrices non felis non, rutrum aliquam nisl. Sed vehicula, neque quis sodales auctor, nunc nulla commodo elit, nec eleifend augue mauris et nunc. Suspendisse id molestie ligula, quis convallis risus. Morbi tempor tempor metus quis viverra.
 
+Duis sollicitudin pretium volutpat. Donec vulputate aliquet dui quis efficitur. In sed vehicula turpis. Nullam leo felis, consequat vitae magna ut, lacinia facilisis quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ut feugiat nunc. Aenean porta ligula vestibulum magna suscipit mattis. Curabitur nec tortor vitae nulla placerat pretium lacinia bibendum metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur maximus iaculis leo nec imperdiet.
 
-      <div id="map-canvas" data-role="content" role="main"  style="width:1500px; height:1500px"></div>
+Vestibulum a lacus pretium, hendrerit ligula nec, elementum felis. Nulla augue urna, lacinia eget dui sit amet, vestibulum placerat orci. Ut id sapien ac ex faucibus varius. Donec nisl tellus, placerat ut ex in, commodo malesuada felis. Nulla at imperdiet neque. Integer dignissim nibh sit amet turpis imperdiet, eu faucibus sapien ullamcorper. Quisque finibus vel elit sed suscipit. Pellentesque pharetra ultricies nulla, non placerat risus pellentesque vitae. Nunc eget justo accumsan, sollicitudin dui tincidunt, commodo purus. Sed elit metus, luctus aliquam malesuada id, condimentum nec nunc. Nulla facilisi. Nunc justo quam, porta non augue in, tincidunt scelerisque turpis.
+
+Mauris commodo consequat arcu id consectetur. Vivamus ornare ultrices lorem nec facilisis. Morbi ac mauris sagittis, mollis quam nec, porttitor est. Vivamus varius interdum sem, sit amet elementum magna placerat a. Sed vitae mollis lectus. In nec tristique tortor. Nunc ut nunc et turpis finibus sollicitudin. Fusce imperdiet accumsan ex, ac aliquet dolor faucibus id. Pellentesque hendrerit convallis nulla sit amet egestas. Integer nibh metus, luctus vel fermentum in, egestas ut tellus. Etiam ultrices mauris ante, in rutrum eros scelerisque et. Integer dolor nisl, laoreet quis blandit vulputate, pretium sed eros.
+
+In odio tortor, feugiat ac erat vel, convallis sagittis lorem. Phasellus eleifend leo vel quam malesuada laoreet. Curabitur laoreet, tellus at consequat dignissim, odio turpis rhoncus enim, ac semper enim tellus non tellus. Mauris sed sodales sem. Morbi sed justo laoreet, tempus odio et, bibendum quam. Integer lacinia tristique sem, sit amet efficitur odio. Donec eu viverra mi, eu gravida tellus. Suspendisse aliquam tortor suscipit mauris faucibus, sit amet feugiat leo malesuada. Quisque tempus bibendum arcu, ac faucibus nisi efficitur quis. Donec eleifend libero enim, nec convallis dolor scelerisque quis.
+</div>
+
+      <div id="map-canvas" data-role="content" role="main">
+      </div>
+
 
 </div>
 
+
+
+
 </body>
+<script>
+$("#hermandad").hide();
+$( "#cerrar" ).click(function() {
+  $("#hermandad").fadeOut(500);
+});
+</script>
 </html>
