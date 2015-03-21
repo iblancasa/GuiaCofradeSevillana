@@ -2,6 +2,15 @@
 #hermandad{
   z-index: 5;
   background-color: #fff;
-  width:80%;
+  width:100%;
+  max-width: 100%;
   position: absolute;
+}
+
+#textoHermandad{
+  text-align: justify;
+  max-width: 93%;
+  width:93%;
+  padding:0px;
+  border: 0px;
 }
