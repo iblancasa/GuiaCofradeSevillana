@@ -2,15 +2,28 @@
 #hermandad{
   z-index: 5;
   background-color: #fff;
-  width:100%;
   max-width: 100%;
   position: absolute;
 }
 
+#hermandad header{
+  top:0;
+       left:0;
+       right:0;
+       bottom:0;
+
+}
+
+#hermandad header > img{
+  width:100%;
+}
+
 #textoHermandad{
   text-align: justify;
-  max-width: 93%;
-  width:93%;
   padding:0px;
   border: 0px;
+}
+
+#textoHermandad article > img{
+  float:left;
 }
