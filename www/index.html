@@ -103,6 +103,18 @@ Handlebars.registerHelper('escudo', function(carpeta) {
   );
 });
 
+/**
+* Devuelve la ruta a la cabecera de la Hermandad
+* @param {String} Ruta a la carpeta
+* @returns {String} Ruta a la cabecera
+*/
+Handlebars.registerHelper('cabecera', function(carpeta) {
+  return new Handlebars.SafeString(
+    carpeta + "cabecera.jpg"
+  );
+});
+
+
 
 /**
 * Devuelve la ruta a la imagen del titular

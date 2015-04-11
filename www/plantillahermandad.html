@@ -1,18 +1,18 @@
 
   <header>
-    <img src="img/hermandades/madruga/triana/cabecera.jpg"/>
+    <img src="{{{ cabecera carpeta }}}"/>
   </header>
   <a style="float:right" href="#" id="cerrar"><i class="fa fa-times fa-5x"></i></a>
 
   <section style="clear:both" id="textoHermandad">
     <article>
-      <h1 id="tituloHermandad">Nombre Cofradía</h1>
+      <h1 id="tituloHermandad">{{ titulo }}</h1>
       <img id="escudo" src="{{{ escudo carpeta }}}"/>
 
       {{# each titulares}}
         <section  class="titular">
           <h3>{{ nombre }}</h3>
-          <img src="{{{ titular @index }}}"/>
+          <img src="{{{ titular ../carpeta @index }}}"/>
           <p>{{ descripcion }}</p>
         </section>
       {{/each}}
