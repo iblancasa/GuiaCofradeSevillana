@@ -1,0 +1,12 @@
+{
+  "carpeta": "img/hermandades/sabadosanto/soledad/",
+  "titulo": "Pontificia y Real Hermandad Sacramental, Nuestra Señora de Roca Amador, Ánimas Benditas, Beato Marcelo Spinola y Primitiva Cofradía de Nazarenos de María Santísima en su Soledad",
+  "titulares":{
+    "primero":{
+      "nombre":"Santo Entierro de Nuestro Señor Jesucristo",
+      "descripcion": "Virgen en su soledad, al pie de la cruz, que tiene un sudario. La talla de la Virgen es de origen anónimo de finales del siglo XVI, en principio estaba arrodillada. Entre sus restauraciones cabe destacar: la realizada en 1864, otra en 1916, nuevamente restaurada en 1953 y la más reciente en 1985",
+      "imagen": "primero.png"
+    }
+  },
+  "coordenadas": "37.396943,-5.996793"
+}

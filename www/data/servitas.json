@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/sabadosanto/servitas/",
+  "titulo": "Real, Ilustre y Venerable Hermandad de Nazarenos y Primitiva Cofradía Servita de Ntra. Señora de los Dolores, Santísimo Cristo de la Providencia, María Santísima de la Soledad y San Marcos Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Providencia",
+      "descripcion": " Representa a Jesús muerto. Es una talla de 1730 de Montes de Oca",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de los Dolores",
+      "descripcion": "Al igual que el Cristo, es de Montes de Oca. Representa una imagen de la Piedad con Cristo muerto entre sus brazos",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"María Santísima de la Soledad",
+      "descripcion": "La figura de la Virgen de la Soledad fue realizada por Castillo Lastrucci a principios del siglo XX, restaurada en 1968",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.396173,-5.987186"
+}

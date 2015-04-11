@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/sabadosanto/entierro/",
+  "titulo": "Real Hermandad Sacramental del Santo Entierro de Nuestro Señor Jesucristo, Triunfo de la Santa Cruz y María Santísima de Villaviciosa",
+  "titulares":{
+    "primero":{
+      "nombre":"Santo Entierro de Nuestro Señor Jesucristo",
+      "descripcion": "Cristo muerto en el interior de una urna de cristal tallada por Juan de Mesa aproximadamente en 1620",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Triunfo de la Santa Cruz",
+      "descripcion": "Es un paso alegórico que representa el Triunfo de Cristo sobre la Muerte. Talla de 1691 atribuida a Cardoso Quirós, sobre la que Juan de Astorga realiza una restauración en 1829",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"María Santísima de Villaviciosa",
+      "descripcion": "Dolorosa con San Juan, María Magdalena, María Salomé, María de Cleofás, José de Arimatea y Nicodemo. talla de 1691 de Cardoso Quirós. Las figuras de San Juan, las Tres Marías y los Santos Varones son realizadas en 1829 por Juan de Astorga",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.392804,-5.997111"
+}

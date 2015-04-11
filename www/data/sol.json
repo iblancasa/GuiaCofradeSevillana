@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/sabadosanto/sol/",
+  "titulo": "Fervorosa y Mariana Hermandad del Santísimo Sacramento y Cofradía de Nazarenos del Triunfo de la Santa Cruz, Santo Cristo Varón de Dolores de la Divina Misericordia, Nuestra Señora del Sol y San Juan Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Santo Cristo Varón de Dolores de la Divina Misericordia",
+      "descripcion": "Santo Cristo Varón de Dolores de la Divina Misericordia. La imagen representa a Jesús Resucitado en tamaño natural, con las heridas producidas por la pasión y la corona de espinas. Cristo abraza la Cruz con la mano izquierda y a sus pies aparecen diferentes símbolos: El cráneo de Adan, la corona de espinas, los clavos de la pasión y la serpiente. La imagen está inspirada en el Santísimo Cristo de Varón de Dolores situado en el altar mayor de la Capilla del Hospital del Pozo Santo, imagen atribuida al taller de Roldán. La talla fue realizada en el año 2003 por José Manuel Bonilla Cornejo",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora del Sol",
+      "descripcion": "Se representa la Sacra Conversación bajo palio. Esta iconografía esta formada por la imagen de Nuestra Señora del Sol flanqueada por San Juan Evangelista y María Magdalena. La presencia de María Magdalena y San Juan junto a María componen una estampa de dolor compartido por la muerte de Jesús de Nazaret. Las tallas son obra del escultor José Manuel Bonilla Cornejo",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.375949,-5.973465"
+}

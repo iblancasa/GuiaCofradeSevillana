@@ -6,6 +6,7 @@ var image=null;
 var position=null;
 var marker=null;
 var tmpl=null;
+var dia=null;
 
 
 function initialize() {
@@ -53,8 +54,88 @@ stemplate.done(function (data) {
 
 
 
-  var image = img+'domingoresurreccion/resurreccion/escudo.png';
-  var position = new google.maps.LatLng(37.3989816,-5.9877606);
+
+/********SÁBADO SANTO********/
+
+dia ="sabadosanto";
+
+//Sol
+  image = img+dia+'/sol/escudo.png';
+  position = new google.maps.LatLng(37.375949,-5.973465);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sol");
+  });
+
+
+//Servitas
+    image = img+dia+'/servitas/escudo.png';
+    position = new google.maps.LatLng(37.396173,-5.987186);
+    marker = new google.maps.Marker({
+       position: position,
+       map: map,
+       icon: image
+     });
+
+     google.maps.event.addListener(marker, 'click', function() {
+     cargar("servitas");
+    });
+
+
+//La Trinidad
+    image = img+dia+'/trinidad/escudo.png';
+    position = new google.maps.LatLng(37.397282,-5.98148);
+    marker = new google.maps.Marker({
+       position: position,
+       map: map,
+       icon: image
+     });
+
+     google.maps.event.addListener(marker, 'click', function() {
+     cargar("trinidad");
+    });
+
+
+//Santo Entierro
+    image = img+dia+'/entierro/escudo.png';
+    position = new google.maps.LatLng(37.392804,-5.997111);
+    marker = new google.maps.Marker({
+       position: position,
+       map: map,
+       icon: image
+     });
+
+     google.maps.event.addListener(marker, 'click', function() {
+     cargar("entierro");
+    });
+
+//Soledad San Lorenzo
+    image = img+dia+'/soledad/escudo.png';
+    position = new google.maps.LatLng(37.396943,-5.996793);
+    marker = new google.maps.Marker({
+       position: position,
+       map: map,
+       icon: image
+     });
+
+     google.maps.event.addListener(marker, 'click', function() {
+     cargar("soledadsanlorenzo");
+    });
+
+
+
+
+/********DOMINGO RESURRECCIÓN********/
+dia = "domingoresurreccion";
+
+//Resurrección
+  image = img+dia+'/resurreccion/escudo.png';
+  position = new google.maps.LatLng(37.3989816,-5.9877606);
   marker = new google.maps.Marker({
      position: position,
      map: map,
@@ -66,23 +147,6 @@ stemplate.done(function (data) {
   });
 
 
-
-
-
-
-
-
-   image = 'img/hermandades/madruga/triana/escudo.png';
-    var sevilla = new google.maps.LatLng(37.384,-6.001351);
-    var giralda = new google.maps.Marker({
-      position: sevilla,
-      map: map,
-      icon: image
-    });
-
-    google.maps.event.addListener(giralda, 'click', function() {
-    $("#hermandad").fadeIn( "slow");
-  });
 
 }
 
