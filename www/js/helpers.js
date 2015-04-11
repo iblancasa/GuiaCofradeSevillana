@@ -1,6 +1,7 @@
 
 
 
+
 /**
 * Devuelve la ruta al escudo de la Hermandad
 * @param {String} Ruta a la carpeta
