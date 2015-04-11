@@ -1,0 +1,16 @@
+{
+  "carpeta": "img/hermandades/madruga/triana/",
+  "titulares":{
+    "primero":{
+      "nombre":"Tres Caídas",
+      "descripcion": "helper to conditionally render a block. If its argument return helper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument return",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Tsdasdasdasd",
+      "descripcion": "helper to conditionally render a block. If its argument return helper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument returnhelper to conditionally render a block. If its argument return",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "00,-122.399677"
+}

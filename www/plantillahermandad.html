@@ -7,21 +7,17 @@
   <section style="clear:both" id="textoHermandad">
     <article>
       <h1 id="tituloHermandad">Nombre Cofradía</h1>
-      <img id="escudo" src="img/hermandades/madruga/triana/escudo.png"/>
+      <img id="escudo" src="{{{ escudo carpeta }}}"/>
 
-      <section  class="titular">
-        <h3>Primer titular</h3>
-        <img src="img/hermandades/madruga/triana/primero.png"/>
-        <p>Pontificia, Real e Ilustre Hermandad y Archicofradía de Nazarenos del Santísimo Sacramento y de la Pura y Limpia Concepción de la Santísima Virgen María, del Santísimo Cristo de las Tres Caídas, Nuestra Señora de la Esperanza y San Juan Evangelista</p>
-      </section>
+      {{# each titulares}}
+        <section  class="titular">
+          <h3>{{ nombre }}</h3>
+          <img src="{{{ titular @index }}}"/>
+          <p>{{ descripcion }}</p>
+        </section>
+      {{/each}}
 
-      <section class="titular">
-      <h3 >Segundo titular</h3>
-      <img src="img/hermandades/madruga/triana/segundo.png"/>
-      <p>Pontificia, Real e Ilustre Hermandad y Archicofradía de Nazarenos del Santísimo Sacramento y de la Pura y Limpia Concepción de la Santísima Virgen María, del Santísimo Cristo de las Tres Caídas, Nuestra Señora de la Esperanza y San Juan Evangelista</p>
-      </section>
-
-      <button onclick="window.location='geo:37.786971,-122.399677';" <button data-icon="flat-location"  data-theme="a" class=" ui-btn ui-btn-a ui-icon-flat-location ui-btn-icon-left ui-shadow ui-corner-all" >Ir a la cofradía</button></div>
+      <button onclick="window.location='geo:{{ coordenadas }}';" <button data-icon="flat-location"  data-theme="a" class=" ui-btn ui-btn-a ui-icon-flat-location ui-btn-icon-left ui-shadow ui-corner-all" >Ir a la cofradía</button></div>
 
     </article>
 </section>
