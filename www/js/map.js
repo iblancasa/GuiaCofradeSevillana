@@ -53,6 +53,108 @@ stemplate.done(function (data) {
 });
 
 
+/********VIERNES SANTO********/
+
+dia ="viernessanto";
+
+//Carretería
+  image = img+dia+'/carreteria/escudo.png';
+  position = new google.maps.LatLng(37.385635,-5.99706);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("carreteria");
+  });
+
+
+//Soledad Sanbuenaventura
+  image = img+dia+'/soledadsanbuenaventura/escudo.png';
+  position = new google.maps.LatLng(37.38921,-5.997557);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("soledadsanbuenaventura");
+  })
+
+
+//El Cachorro
+  image = img+dia+'/cachorro/escudo.png';
+  position = new google.maps.LatLng(37.389298,-6.010998);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("cachorro");
+  })
+
+
+//La O
+  image = img+dia+'/lao/escudo.png';
+  position = new google.maps.LatLng(37.38695,-6.005227);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("lao");
+  })
+
+
+//San Isidoro
+  image = img+dia+'/sanisidoro/escudo.png';
+  position = new google.maps.LatLng(37.389759,-5.991031);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanisidoro");
+  })
+
+
+//Montserrat
+  image = img+dia+'/montserrat/escudo.png';
+  position = new google.maps.LatLng(37.390176,-5.998827);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("montserrat");
+  })
+
+
+//Mortaja
+  image = img+dia+'/mortaja/escudo.png';
+  position = new google.maps.LatLng(37.394522,-5.988256);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("mortaja");
+  })
+
+
 
 
 /********SÁBADO SANTO********/

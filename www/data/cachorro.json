@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/viernessanto/cachorro/",
+  "titulo": "Pontificia, Real e Ilustre Hermandad del Santísimo Cristo de la Expiración y Nuestra Madre y Señora del Patrocinio",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Expiración",
+      "descripcion": " La imagen de Cristo fue tallada en 1682 por Francisco Antonio Ruiz Gijón y restaurada en 1940, en 1945, en 1973 y en 2005",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Madre y Señora del Patrocinio",
+      "descripcion": "La talla de la Virgen fue realizada en 1973, a semejanza de la anterior imagen, por Luis Álvarez Duarte",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.389298,-6.010998"
+}

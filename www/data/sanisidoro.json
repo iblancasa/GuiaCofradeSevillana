@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/viernessanto/sanisidoro/",
+  "titulo": "Antigua e Ilustre Hermandad del Santísimo Sacramento, María Stma. de las Nieves y Ánimas Benditas del Purgatorio y Pontificia y Real Archicofradía de Nazarenos de Nuestro Padre Jesús de las Tres Caídas, Nuestra Señora de Loreto y Señor San Isidoro",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de las Tres Caídas",
+      "descripcion": "La imagen de Jesús, atribuida a Alonso Martínez, data de 1668, es retocado en 1928, en 1974, es reformado de nuevo, la figura del Cirineo es tallada en 1687. El primer paso con los que procesiona el Viernes Santo es neobarroco, dorado, iluminado por candelabros de guardabrisas de palmas, del anterior paso. Fue tallado y dorado en 1941por el maestro Francisco Ruiz, \"Currito el dorador\". Los ángeles querubines son del siglo XVII. La cruz tiene casquetes en plata dorada, las potencias de oro de ley del Señor datan de 1956. Tiene tres túnicas bordadas de salida.",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de Loreto",
+      "descripcion": "La imagen de la Virgen de Loreto es de origen anónimo del siglo XVIII, la mascarilla le fue retallada en 1955. El paso de la dolorosa tiene orfebrería dorada. La Virgen lleva corona en plata dorada. El manto está tejido en tisú de tonos grisáceos, con bordados en oro, al igual que el palio que la cubre. La saya es blanca y también está bordada.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.389759,-5.991031"
+}

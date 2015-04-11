@@ -1,0 +1,12 @@
+{
+  "carpeta": "img/hermandades/viernessanto/soledadsanbuenaventura/",
+  "titulo": "Real, Ilustre y Franciscana Hermandad y Cofradía de Nazarenos de la Santa Cruz en el Monte Calvario, Santísimo Cristo de la Salvación y Ntra. Señora de la Soledad",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestra Señora de la Soledad",
+      "descripcion": "El paso que procesiona en la tarde del Viernes Santo se representa a la Virgen en su soledad, al pie de la cruz con escalera y sudario, siendo esta Hermandad la primera en Sevilla en mostrar el misterio de la Soledad de María, Sola y al pie de la Cruz. La imagen de la Virgen es tallada en 1851 por el imaginero Gabriel de Astorga y Miranda (hijo de Juan de Astorga), fue retocada por Sebastian Santos en 1954 para que fuese erguida, colocándole nuevas manos, y fue restaurada por última vez en 1967 por Manuel Domínguez",
+      "imagen": "primero.png"
+    }
+  },
+  "coordenadas": "37.38921,-5.997557"
+}

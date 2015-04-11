@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/viernessanto/carreteria/",
+  "titulo": "Pontificia y Real Archicofradía de Nazarenos del Santísimo Cristo de la Salud, María Santísima de la Luz en el Sagrado Misterio de sus Tres Necesidades al Pie de la Santa Cruz, San Francisco de Paula, Gloriosa Resurrección de Nuestro Señor Jesucristo y Nuestra Señora del Mayor Dolor en su Soledad",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Salud",
+      "descripcion": "El misterio representa las Tres Necesidades –escaleras, sábanas y sepulcro-. En él aparecen: Cristo crucificado y muerto, la Dolorosa con San Juan, María Magdalena, María Salomé, María de Cleofás, José de Arimatea y Nicodemo, así como las imágenes del Buen Ladrón y el Mal Ladrón crucificados.La imagen de Cristo crucificado es talla atribuida a Francisco de Ocampo, del siglo XVII",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Luz en el Sagrado Misterio de sus Tres Necesidades al Pie de la Santa Cruz",
+      "descripcion": "La figura de la Virgen de la Luz y San Juan son realizadas en el siglo XVII, las tres Marías, los Santos Varones y los ladrones son talladas en el siglo XVII",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora del Mayor Dolor en su Soledad",
+      "descripcion": "al maestro escultor y discípulo de Martínez Montañés, D.Alonso Álvarez de Albarrán",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.385635,-5.99706"
+}
