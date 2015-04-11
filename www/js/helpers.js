@@ -1,28 +1,4 @@
 
-$(function() {
-	var stemplate =  $.ajax({
-	url: 'plantillahermandad.html'
-	});
-
-	stemplate.done(function (data) {
-    var tmpl = Handlebars.compile(data);
-
-		var xhr = $.ajax({
-		url: 'Beers.json'
-		});
-
-		xhr.done(function (data) {
-      console.log(data);
-			var ctx = data;
-			var html = tmpl(ctx);
-			$("#hermandad").html(html);
-      $( "#cerrar" ).click(function() {
-        $("#hermandad").fadeOut(500);
-      });
-		});
-	});
-
-});
 
 
 /**
