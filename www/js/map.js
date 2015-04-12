@@ -53,6 +53,110 @@ stemplate.done(function (data) {
 });
 
 
+/********JUEVES SANTO********/
+
+dia ="juevessanto";
+
+//Los Negritos
+  image = img+dia+'/negritos/escudo.png';
+  position = new google.maps.LatLng(37.390864,-5.984228);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("negritos");
+  });
+
+
+//La Exaltación
+  image = img+dia+'/exaltacion/escudo.png';
+  position = new google.maps.LatLng(37.394055,-5.98771);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("exaltacion");
+  });
+
+
+//Las Cigarreras
+  image = img+dia+'/cigarreras/escudo.png';
+  position = new google.maps.LatLng(37.377527,-5.995917);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("cigarreras");
+  });
+
+
+//Monte-Sión
+  image = img+dia+'/montesion/escudo.png';
+  position = new google.maps.LatLng(37.396867,-5.991324);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("montesion");
+  });
+
+
+//Quinta Angustia
+  image = img+dia+'/quintaangustia/escudo.png';
+  position = new google.maps.LatLng(37.390427,-5.99815);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("quintaangustia");
+  });
+
+
+//El Valle
+  image = img+dia+'/valle/escudo.png';
+  position = new google.maps.LatLng(37.392813,-5.992565);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("valle");
+  });
+
+
+//Pasión
+  image = img+dia+'/pasion/escudo.png';
+  position = new google.maps.LatLng(37.389861,-5.993292);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("pasion");
+  });
+
+
+
+
 /********MADRUGÁ********/
 
 dia ="madruga";
@@ -153,6 +257,7 @@ dia ="madruga";
    google.maps.event.addListener(marker, 'click', function() {
    cargar("gitanos");
   });
+
 
 
 

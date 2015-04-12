@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/negritos/",
+  "titulo": "Antigua, Pontificia y Franciscana Hermandad y Cofradía de Nazarenos del Santísimo Cristo de la Fundación y Nuestra Señora de los Ángeles",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Fundación",
+      "descripcion": "Cristo crucificado de Andrés de Ocampo. El paso del Señor es de estilo neorrenacentista, en madera de caoba, siendo iluminado por cuatro faroles de madera. Tallado en 1622, con resanado y nuevo barnizado de 1996",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de los Ángeles",
+      "descripcion": "El paso de palio es de inspiración oriental. Orfebrería plateada y dorada. El Palio y manto de tisú celeste, bordados en oro y plata, con marfiles en el palio, por las Trinitarias desde 1961 hasta 1964. La saya es bordada, también por las Trinitarias. La Virgen luce corona de plata dorada, hecha en 1970. Es una imagen anónima",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.390864,-5.984228"
+}

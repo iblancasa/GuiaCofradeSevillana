@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/quintaangustia/",
+  "titulo": "Pontificia y Real Hermandad y Archicofradía de Nazarenos del Dulce Nombre de Jesús, Sagrado Descendimiento de Nuestro Señor Jesucristo y Quinta Angustia de María Santísima Nuestra Señora",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrado Descendimiento de Nuestro Señor Jesucristo",
+      "descripcion": "En su estación de penitencia lleva un único paso que representa el momento en que está siendo descendido Cristo de la cruz, por José de Arimatea y Nicodemo que están subidos a las escaleras y sostienen el sudario, mientras son observados por San Juan, María Magdalena, María Salomé, María Cleofás y la Virgen, que sostienen la sábana. La figura de Cristo es tallada en 1659, por Pedro Roldán restaurada en 1904 y en 1985, las imágenes de José de Arimatea, Nicodemo, San Juan y las Tres Marías son realizadas este esculto o su taller en esas mismas fechas, la Virgen es tallada en 1934, por Vicente Rodríguez Caso, siendo restaurada en 1989, en la que se le realiza nuevo candelero",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Quinta Angustia de María Santísima Nuestra Señora",
+      "descripcion": "La Imagen de la Santísima Virgen es obra del escultor y hermano Vicente Rodríguez-Caso, que la tallase en 1932, y que con anterioridad había restaurado en profundidad la casi totalidad del Misterio.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.390427,-5.99815"
+}
