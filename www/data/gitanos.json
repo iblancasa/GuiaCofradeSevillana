@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/madruga/gitanos/",
+  "titulo": "Real, Ilustre y Fervorosa Hermandad Sacramental Animas Benditas y Cofradía de Nazarenos de Nuestro Padre Jesús de la Salud y María Santísima de las Angustias Coronada",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Salud",
+      "descripcion": "El primer paso de la Hermandad representa a Jesús Nazareno con la cruz a cuestas. Se trata de una imagen realizada por el escultor sevillano José Rodríguez y Fernández-Andes (discípulo de Antonio Castillo Lastrucci) en 1937, siendo restaurada en 1960 y nuevamente en 1979 y 1982. El paso de Cristo es de estilo neobarroco, dorado, iluminado por cuatro faroles en metal dorado. El Señor lleva potencias en oro de ley. Viste túnica morada de terciopelo y es adornado con claveles rojos en su estación de penitencia",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de las Angustias Coronada",
+      "descripcion": "El segundo y último paso de la hermandad porta a María Santísima de las Angustias Coronada bajo palio. La imagen también es obra de Rodríguez y Fernández-Andes, quien la realizara en 1938. Posee un palio bordado en 1994 por Fernández y Enríquez réplica del antiguo, diseñado por Ignacio Gómez Millán en 1935, con el que procesiona cada madrugada del Viernes Santo, siendo adornado con flores blancas. La orfebrería del paso de palio es de plata de ley en los respiraderos con capillas y en los varales, al igual que los candelabros. La Virgen lleva corona en oro de ley. El palio en terciopelo morado, está bordado en oro.La virgen posee dos mantos de salida, el primero bordado en oro por Carrasquilla sobre terciopelo de color azul pavo con el escudo de la hermandad en el centro,y el segundo manto en terciopelo burdeos con bordados también en oro con el escudo de la Casa de Alba en el centro, donado por la mismisima Doña Cayetana de Alba",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.394741,-5.984165"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/madruga/granpoder/",
+  "titulo": "Pontificia y Real Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús del Gran Poder y María Santísima del Mayor Dolor y Traspaso",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús del Gran Poder",
+      "descripcion": "Representa a Jesús con la cruz al hombro. La espectacular talla, realizada por Juan de Mesa en 1620, destaca por su inconfundible zancada al mover el paso. La imagen fue restaurada en 1910, en 1962, en 1976, en 1977, en 1983 y en 2008. El paso del Señor, es de estilo barroco, dorado, considerado como paradigma de los pasos de cristo en la ciudad. Fue realizado por Francisco Ruiz Gijón entre 1682 y 1692. Está iluminado por faroles de plata dorada realizados en 1908 por Rafael León, inspirados en los que posee la Hermandad del Santo Entierro de Écija, del orfebre cordobés Damián de Castro, datados en el siglo XVIII. Los faldones con respiraderos bordado en oro y sedas, y tiene una imagen del Nazareno de Jerez de la Frontera. Fue restaurado en 2011-2012 por el Instituto Andaluz del Patrimonio Histórico de la Junta de Andalucía.",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Mayor Dolor y Traspaso",
+      "descripcion": "Acompañada por San Juan, bajo palio. La imagen de la Virgen es de origen anónimo del siglo XVIII, reformada en 1955, San Juan fue tallado en 1620, por Juan de Mesa. La Virgen lleva corona de plata dorada. El palio es neobarroco, con orfebrería en plata de ley. Tiene moldurón, varales, jarras, candelabros de cola y faroles entrevarales; la peana en plata de ley es barroca del siglo XVIII; la candelería de alpaca plateada. El palio es en terciopelo burdeos, bordado en oro. Saya y faldones están bordados en oro, y cuenta con dos mantos de procesión, uno granate y otro azul, también bordados en oro.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.396856,-5.996286"
+}

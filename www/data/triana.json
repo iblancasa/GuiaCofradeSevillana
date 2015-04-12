@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/madruga/triana/",
+  "titulo": "Pontificia, Real e Ilustre Hermandad y Archicofradía de Nazarenos del Santísimo Sacramento, de la Pura y Limpia Concepción de la Santísima Virgen María, Santísimo Cristo de las Tres Caídas, Nuestra Señora de la Esperanza y San Juan Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de las Tres Caídas",
+      "descripcion": "La imagen de Jesús está atribuida a Marcos Cabrera (s. XVI), con restauraciones posteriores; las que le acompañan en su paso fueron realizadas entre 1939 y 1941 por Antonio Castillo Lastrucci. l paso de misterio es de estilo neobarroco, dorado, iluminado por candelabros de guardabrisas. Es tallado en 1979, lleva relieves en plata de ley y cuatro ángeles en las esquinas. Es dorado de nuevo en 1996. El Señor lleva potencias de oro de ley, y los casquetes en plata dorada, de la cruz del Señor",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Esperanza",
+      "descripcion": "La imagen de la Virgen fue tallada sobre 1816 (se cree que por Juan de Astorga), más tarde retallada por José Ordóñez (forjador definitivo de los actuales rasgos de la Esperanza); Castillo Lastrucci la policromó y le hizo nuevas manos en 1929, y fue restaurada en 1989 por Luis Álvarez Duarte. El palio tiene la orfebrería en plata de ley, con respiraderos y candelabros de cola. Lleva una miniatura de la Inmaculada, en plata. La Virgen lleva corona de oro de ley realizada en 1984. El palio es de malla bordado en oro, con bambalinas realizadas en parte en el convento de Santa Isabel, con techo con centro en terciopelo verde bordado en oro y el resto bordado en malla. La Virgen posee dos mantos que alterna en su salida procesional",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.383924,-6.001272"
+}

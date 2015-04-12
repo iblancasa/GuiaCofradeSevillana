@@ -53,6 +53,109 @@ stemplate.done(function (data) {
 });
 
 
+/********MADRUGÁ********/
+
+dia ="madruga";
+
+//El Silencio
+  image = img+dia+'/silencio/escudo.png';
+  position = new google.maps.LatLng(37.392765,-5.996692);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("silencio");
+  });
+
+
+//Gran Poder
+  image = img+dia+'/granpoder/escudo.png';
+  position = new google.maps.LatLng(37.396856,-5.996286);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("granpoder");
+  });
+
+
+//Macarena
+  image = img+dia+'/macarena/escudo.png';
+  position = new google.maps.LatLng(37.402749,-5.989403);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("macarena");
+  });
+
+
+//El Calvario
+  image = img+dia+'/calvario/escudo.png';
+  position = new google.maps.LatLng(37.39021,-5.998483);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("calvario");
+  });
+
+
+//El Calvario
+  image = img+dia+'/calvario/escudo.png';
+  position = new google.maps.LatLng(37.39021,-5.998483);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("calvario");
+  });
+
+
+//Esperanza de Triana
+  image = img+dia+'/triana/escudo.png';
+  position = new google.maps.LatLng(37.383924,-6.001272);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("triana");
+  });
+
+
+//Los Gitanos
+  image = img+dia+'/gitanos/escudo.png';
+  position = new google.maps.LatLng(37.394741,-5.984165);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("gitanos");
+  });
+
+
+
 /********VIERNES SANTO********/
 
 dia ="viernessanto";
