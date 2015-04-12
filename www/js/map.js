@@ -53,6 +53,137 @@ stemplate.done(function (data) {
 });
 
 
+/********MARTES SANTO********/
+
+dia ="martessanto";
+
+//El Cerro
+  image = img+dia+'/cerro/escudo.png';
+  position = new google.maps.LatLng(37.371931,-5.957566);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("cerro");
+  });
+
+
+//Los Javieres
+  image = img+dia+'/losjavieres/escudo.png';
+  position = new google.maps.LatLng(37.399319,-5.991831);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("losjavieres");
+  });
+
+
+//San Esteban
+  image = img+dia+'/sanesteban/escudo.png';
+  position = new google.maps.LatLng(37.389771,-5.986258);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanesteban");
+  });
+
+
+//San Esteban
+  image = img+dia+'/sanesteban/escudo.png';
+  position = new google.maps.LatLng(37.389771,-5.986258);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanesteban");
+  });
+
+
+//Los Estudiantes
+  image = img+dia+'/estudiantes/escudo.png';
+  position = new google.maps.LatLng(37.382062,-5.991809);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("estudiantes");
+  });
+
+
+//San Benito
+  image = img+dia+'/sanbenito/escudo.png';
+  position = new google.maps.LatLng(37.387694,-5.979771);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanbenito");
+  });
+
+
+//La Candelaria
+  image = img+dia+'/candelaria/escudo.png';
+  position = new google.maps.LatLng(37.388447,-5.989214);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("candelaria");
+  });
+
+
+//La Bofetá
+  image = img+dia+'/bofeta/escudo.png';
+  position = new google.maps.LatLng(37.397126,-5.997004);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("bofeta");
+  });
+
+
+//Santa Cruz
+  image = img+dia+'/santacruz/escudo.png';
+  position = new google.maps.LatLng(37.386924,-5.989732);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("santacruz");
+  });
+
+
+
 /********MIERCOLES SANTO********/
 
 dia ="miercolessanto";
@@ -181,6 +312,7 @@ dia ="miercolessanto";
    google.maps.event.addListener(marker, 'click', function() {
    cargar("panaderos");
   });
+
 
 
 

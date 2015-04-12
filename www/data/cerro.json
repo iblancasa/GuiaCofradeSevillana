@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/martessanto/cerro/",
+  "titulo": "Fervorosa Hermandad Sacramental y Cofradía de Nazarenos del Santísimo Cristo del Desamparo y Abandono, Nuestro Padre Jesús de la Humildad y Nuestra Señora de los Dolores",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo del Desamparo y Abandono",
+      "descripcion": "El primer paso de la hermandad representa a Jesucristo muerto en la cruz ante la mirada de Longinos en actitud de arrepentimiento, al que acompañan dos soldados romanos y un sayón. La imagen de Jesús es obra anónima del siglo XVII, y fue restaurada en 1982 y 1986, y tiene potencias doradas. Las figuras secundarias del misterio son obra de Juan Manuel Miñarro, quien restauró los romanos en el año 2000, mismo año en que el taller de los Hermanos Delgado reformó las corazas para adaptarlas a las referidas imágenes",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de los Dolores",
+      "descripcion": "En segundo lugar desfila el paso de Nuestra Señora de los Dolores bajo palio, imagen realizada en 1955 por Sebastián Santos y restaurada en 1985. Desde el año 2002 luce corona de oro de ley, y su manto de salida fue diseñado por Francisco Carrera Iglesias en terciopelo negro con bordados en oro, completado con un tocado del siglo XVIII que la hermandad regaló a la imagen en el año 2000",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestro Padre Jesús de la Humildad",
+      "descripcion": "Ha sido realizado por Juan Manuel Miñarro",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.371931,-5.957566"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/martessanto/losjavieres/",
+  "titulo": "Hermandad y Cofradía de Nazarenos del Stmo. Cristo de las Almas, María Santísima de Gracia y Amparo, María Inmaculada y San Francisco Javier",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de las Almas",
+      "descripcion": "La imagen de Cristo fue tallada en 1947 por el imaginero portugués José Pires Azcárraga y restaurado en 1956, en 1991 y en 1998",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de Gracia y Amparo",
+      "descripcion": "La imagen de la Virgen fue tallada en 1945 por José Fernández Andés, y restaurada en 1981 y en 1992 (por Manuel Ramos Corona)",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.399319,-5.991831"
+}

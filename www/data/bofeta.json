@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/martessanto/bofeta/",
+  "titulo": "Pontificia Fervorosa, Ilustre y Antigua Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús ante Anás, Santo Cristo del Mayor Dolor, María Santísima del Dulce Nombre y San Juan Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús ante Anás",
+      "descripcion": "El grupo escultórico del misterio de Jesús ante Anás es obra de Antonio Castillo Lastrucci en 1923. Representa el pasaje en el que Jesucristo es presentado ante Anás. En la escena aparece el judío Malco en actitud de abofetear a Jesús, bajo la mirada de José de Arimatea y Caifás, y en presencia de un soldado romano y otro judío burlándose de la escena. La imagen de Nuestro Padre Jesús ante Anás la única que, representando a Jesucristo, aparece de espaldas al público en su estación de penitencia en la ciudad",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Dulce Nombre",
+      "descripcion": "El segundo paso de la hermandad lleva bajo palio a María Santísima del Dulce Nombre acompañada de San Juan Evangelista. Ambas imágenes fueron realizadas por Castillo Lastrucci en 1924, quien tras su primera salida intervino el rostro de la Virgen para proporcionarle una forma más redondeada; luce manto de terciopelo azul con bordados en oro realizado por Rodríguez Ojeda en 1923 siguiendo el diseño del palio, realizado por el mismo autor dos años antes",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.397126,-5.997004"
+}
