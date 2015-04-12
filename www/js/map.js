@@ -1,6 +1,6 @@
 
 var map;
-var datadir="data/";
+var datadir="./data/";
 var img="img/hermandades/"
 var image=null;
 var position=null;
@@ -15,12 +15,14 @@ var mapOptions = {
   center: new google.maps.LatLng(37.3890118,-5.9842985)
 };
 
-
 function cargar(hermandad){
   var archivo = datadir+hermandad+".json";
 
   var xhr = $.ajax({
-  url: archivo
+  url: archivo,
+  crossDomain: true,
+  jsonpCallback: 'cb',
+  dataType: 'json'
   });
 
   xhr.done(function (data) {
@@ -37,6 +39,7 @@ function cargar(hermandad){
 
 
 
+
 map = new google.maps.Map(document.getElementById('map-canvas'),
     mapOptions);
 
@@ -44,17 +47,114 @@ document.getElementById('map-canvas').style.zIndex = "1";
 document.getElementById('header').style.zIndex = "10";
 
 
-var stemplate =  $.ajax({
-  url: 'plantillahermandad.html'
-});
-
-stemplate.done(function (data) {
+$.get('plantillahermandad.html',function (data) {
   tmpl = Handlebars.compile(data);
 });
 
 
 
 
+
+/********DOMINGO DE RAMOS********/
+
+dia ="domingoderamos";
+
+//Despojado
+  image = img+dia+'/despojado/escudo.png';
+  position = new google.maps.LatLng(37.387876,-5.997907);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("despojado");
+  });
+
+
+//La Paz
+  image = img+dia+'/paz/escudo.png';
+  position = new google.maps.LatLng(37.374678,-5.983044);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("paz");
+  });
+
+
+//La Cena
+  image = img+dia+'/cena/escudo.png';
+  position = new google.maps.LatLng(37.394219,-5.987474);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("cena");
+  });
+
+
+//La Hiniesta
+  image = img+dia+'/hiniesta/escudo.png';
+  position = new google.maps.LatLng(37.39883,-5.985679);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("hiniesta");
+  });
+
+
+//San Roque
+  image = img+dia+'/sanroque/escudo.png';
+  position = new google.maps.LatLng(37.390861,-5.983952);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanroque");
+  });
+
+
+//Estrella
+  image = img+dia+'/estrella/escudo.png';
+  position = new google.maps.LatLng(37.3838875,-6.0048799);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("estrella");
+  });
+
+
+//La Amargura
+  image = img+dia+'/amargura/escudo.png';
+  position = new google.maps.LatLng(37.3838875,-6.0048799);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("amargura");
+  });
 
 
 /********LUNES SANTO********/
