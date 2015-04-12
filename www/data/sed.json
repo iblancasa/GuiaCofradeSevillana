@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/sed/",
+  "titulo": "Hospitalaria Hermandad Sacramental de Congregantes de la Concepción Inmaculada de la Santísima Virgen María y Cofradía de Nazarenos del Santísimo Cristo de la Sed y Santa María de Consolación Madre de la Iglesia, San Juan Evangelista y San Juan de Dios",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Sed",
+      "descripcion": "En el paso del Señor, se representa a Cristo crucificado al pronunciar la quinta palabra <<Tengo sed>>. El Cristo fue tallado en 1970 por Luis Álvarez Duarte, siendo restaurado en 1991",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santa María de Consolación Madre de la Iglesia",
+      "descripcion": " La Virgen fue realizada en 1969 por el escultor Antonio Dubé de Luque, siendo restaurada, por su propio autor, en 1991 y en 2013",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.38301,-5.965834"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/carmendoloroso/",
+  "titulo": "Hermandad Carmelita de las Maravillas de María y Cofradía de Nazarenos de Ntro. Padre Jesús de la Paz y Ntra. Sra. del Carmen en sus Misterios Dolorosos",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Paz",
+      "descripcion": "Obra de Francisco José Reyes Villadiego, bendecido el día 9 de Junio de ese año bajo el padrinazgo de las Hermandades del Gran Poder de Camas y de la Resurrección de Sevilla",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora del Carmen en sus Misterios Dolorosos",
+      "descripcion": "El 14 de Julio del año 1984, se bendice la imagen de Nuestra Señora del Carmen en Sus Misterios Dolorosos, obra de Francisco Berlanga de Ávila, discípulo de Francisco Buiza",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.399089,-5.991669"
+}

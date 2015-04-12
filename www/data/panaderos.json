@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/panaderos/",
+  "titulo": "Pontificia, Real, Ilustre y Fervorosa Hermandad y Archicofradía de Nazarenos de Nuestro Padre Jesús del Soberano Poder en su Prendimiento, María Stma. de Regla y San Andrés Apóstol",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús del Soberano Poder en su Prendimiento",
+      "descripcion": "En el primer paso, el Señor del Soberano Poder en su Prendimiento, obra del escultor Castillo Lastrucci, junto con el resto del misterio, en un principio la hermandad encargó la ejecución del misterio en sustitución del existente considerado poco lucido. Castillo Lastrucci condicionó la realización del misterio con la hechura de un Cristo regalado por él. El paso de misterio representa el momento en que Jesús es prendido en el monte de los olivos. Está acompañado de San Juan, San Pedro y Santiago; completa la escena Judas, dos sayones (uno con una tea y otro con una soga) y dos soldados romanos. Es preciso mencionar que este paso es el único en Sevilla cuyo diseño y ejecución es completamente realizado por el Taller de D. Antonio Castillo Lastrucci, no sólo aquello que a la imaginería se refiere, sino también todo el conjunto de respiraderos, canasto y candelabros de guardabrisa, al igual que el mismo llamador que, como nota anecdótica, un día el Maestro dibujara sobre una servilleta. Este llamador representa a un monaguillo asiendo un blandón sobre su hombro",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de Regla",
+      "descripcion": "En el paso de palio, la Virgen de Regla Coronada, está atribuida al círculo de la Roldana, en torno al siglo XVII, habiendo sido restaurada en varias ocasiones. La última por Carrasquilla en 2006",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.393525,-5.993872"
+}

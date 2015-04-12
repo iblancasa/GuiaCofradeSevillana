@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/lanzada/",
+  "titulo": "Imperial, Antigua, Ilustre y Fervorosa Hermandad del Santísimo Sacramento, Inmaculada Concepción de Ntra. Sra., Santa Espina de la corona de Ntro. Señor Jesucristo, Ánimas Benditas del Purgatorio, San Martín de Tours Obispo, Ntra. Sra. de la Esperanza Divina Enfermera y Real Archicofradía de Nazarenos de la Sagrada Lanzada de Ntro. Señor Jesucristo, Ntra. Sra. de Guía, San Juan Evangelista y María Stma. del Buen Fin",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Lanzada de Nuestro Señor Jesucristo",
+      "descripcion": "La imagen de Jesucristo crucificado es una obra de Antonio Illanes fechada en 1929, siendo la primera imagen reconocida de este autor y estando éste inspirado por un gitano del cual tomó el rostro para tallar al Santísimo Cristo de La Lanzada. Es la imagen más conocida de esta hermandad. Es de piel morena y de claros rasgos judíos",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Palma",
+      "descripcion": " Es una bellísima dolorosa que va en paso de palio. Tiene la cabeza inclinada hacia su derecha y mirada baja, con gran expresión dolorosa. Fue realizada en 1810 por Juan de Astorga. Es la única Virgen dolorosa en Sevilla cuyo rostro está realizado en papelón. Se considera una imagen poco reconocida en comparación con su belleza y valor artísitico",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.396125,-5.993067"
+}

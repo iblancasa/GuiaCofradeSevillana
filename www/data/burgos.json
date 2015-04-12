@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/burgos/",
+  "titulo": "Pontificia, Real, Ilustre y Fervorosa Hermandad del Santísimo Cristo de Burgos, Negaciones y Lágrimas de San Pedro y Madre de Dios de la Palma",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de Burgos",
+      "descripcion": "La imagen del Cristo de Burgos es una talla realizada en 1573 por el escultor salmantino Juan Bautista Vázquez el Viejo. Representa a Jesucristo muerto en la cruz, y fue realizado a semejanza del crucificado que se venera en la capilla del Santísimo Cristo de la catedral de Burgos. Sufrió varias restauraciones que desfiguraron las semejanzas entre ambas imágenes, hasta que en 1997 fue intervenido por el Instituto Andaluz del Patrimonio Histórico, que consiguió devolverle su aspecto y policromía original. Tiene potencias en oro de ley realizadas por García Armenta en 1964",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Madre de Dios de la Palma",
+      "descripcion": "La imagen de la Madre de Dios de la Palma es una obra de Manuel Gutiérrez Reyes-Cano realizada en 1884, y luce corona de plata sobredorada y una palma de oro. El palio fue bordado por Juan Manuel Rodríguez Ojeda en 1928 y es de terciopelo rojo con bordados de oro, al igual que el manto de la imagen, obra de Sobrinos de Caro en 1959. El paso de palio tiene orfebrería plateada con un moldurón",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.392467,-5.989923"
+}

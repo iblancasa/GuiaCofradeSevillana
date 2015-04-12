@@ -53,6 +53,137 @@ stemplate.done(function (data) {
 });
 
 
+/********MIERCOLES SANTO********/
+
+dia ="miercolessanto";
+
+//Carmen Doloroso
+  image = img+dia+'/carmendoloroso/escudo.png';
+  position = new google.maps.LatLng(37.399089,-5.991669);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("carmendoloroso");
+  });
+
+
+//La Sed
+  image = img+dia+'/sed/escudo.png';
+  position = new google.maps.LatLng(37.38301,-5.965834);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sed");
+  });
+
+
+//San Bernardo
+  image = img+dia+'/sanbernardo/escudo.png';
+  position = new google.maps.LatLng(37.382467,-5.982182);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanbernardo");
+  });
+
+
+//Buen Fin
+  image = img+dia+'/buenfin/escudo.png';
+  position = new google.maps.LatLng(37.398238,-5.99869);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("buenfin");
+  });
+
+
+//La Lanzada
+  image = img+dia+'/lanzada/escudo.png';
+  position = new google.maps.LatLng(37.396125,-5.993067);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("lanzada");
+  });
+
+
+//El Baratillo
+  image = img+dia+'/baratillo/escudo.png';
+  position = new google.maps.LatLng(37.386441,-5.997517);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("baratillo");
+  });
+
+
+//Cristo de Burgos
+  image = img+dia+'/burgos/escudo.png';
+  position = new google.maps.LatLng(37.392467,-5.989923);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("burgos");
+  });
+
+
+//Las Siete Palabras
+  image = img+dia+'/sietepalabras/escudo.png';
+  position = new google.maps.LatLng(37.394561,-5.998897);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sietepalabras");
+  });
+
+
+//Los Panaderos
+  image = img+dia+'/panaderos/escudo.png';
+  position = new google.maps.LatLng(37.393525,-5.993872);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("panaderos");
+  });
+
+
+
 /********JUEVES SANTO********/
 
 dia ="juevessanto";

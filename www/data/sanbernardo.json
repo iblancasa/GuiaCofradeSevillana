@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/sanbernardo/",
+  "titulo": "Real, Ilustre y Fervorosa Hermandad Sacramental de la Pura y Limpia Concepción de la Santísima Virgen María, Ánimas Benditas del Purgatorio y Cofradía de Nazarenos del Santísimo Cristo de la Salud, María Santísima del Refugio, Santa Cruz, Ntra. Señora del Patrocinio, Santa Bárbara y San Bernardo",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Salud",
+      "descripcion": "En el paso del Señor, se ve al Santísimo Cristo de la Salud, crucificado muerto en la cruz. Fue considerado el Cristo más fotogénico de Sevilla. El Cristo fue tallado en 1669 por Andrés Cansino y restaurado en 1967 por Sebastián Santos, 1978 por Jesús Santos y 1999 por el Instituto Andaluz del Patrimonio Historico",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Refugio",
+      "descripcion": "En el paso de palio, se representa a la Virgen del Refugio bajo palio. Esta bellísima talla es obra de Sebastián Santos fechada en 1938 y restaurada en 1967 y 1972",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.382467,-5.982182"
+}

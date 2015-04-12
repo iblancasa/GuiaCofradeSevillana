@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/buenfin/",
+  "titulo": "Real, Ilustre, Antigua, Fervorosa y Franciscana Hermandad Sacramental y Cofradía de Nazarenos del Santo Sudario, Santísimo Cristo del Buen Fin y Nuestra Señora de la Palma",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo del Buen Fin",
+      "descripcion": "La talla del Cristo es de 1645,obra de Sebastián Rodriguez, discípulo del imaginero Juan de Mesa y fue restaurado en 1979 por Luis Ortega Bru. Se representa a Cristo crucificado, muerto en la cruz",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Palma",
+      "descripcion": "La talla de la Virgen es de origen anónimo, del siglo XVII, restaurada en 1980 por el mismo imaginero que el Cristo. El paso es de estilo neorrenacentista, con respiraderos con escenas grabadas en plata y jarras de plata. Los candelabros de cola, hechos en 1990. El palio y el manto es de terciopelo azul con tallas y bordado en oro. La Virgen luce corona oro de ley, de Manuel de los Ríos, 2005, realizada con motivo de su coronación canónica",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.398238,-5.99869"
+}
