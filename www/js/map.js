@@ -157,6 +157,22 @@ dia ="domingoderamos";
   });
 
 
+//El Amor
+  image = img+dia+'/amor/escudo.png';
+  position = new google.maps.LatLng(37.39025,-5.993205);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("amor");
+  });
+
+
+
+
 /********LUNES SANTO********/
 
 dia ="lunessanto";

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/estrella/",
+  "titulo": "Pontificia, Real, Ilustre y Fervorosa Hermandad Sacramental y Cofradía de Nazarenos de Nuestro Padre Jesús de las Penas, María Santísima de la Estrella, Triunfo del Santo Lignum Crucis, San Francisco de Paula y Santas Justa y Rufina",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de las Penas",
+      "descripcion": "El paso de Cristo está representando a Jesús sentado con las manos juntas, rezándole a Dios, dos sayones que preparan la crucifixión y un soldado romano. El Señor fue tallado por José de Arce en 1655. Los sayones y el soldado del paso de Cristo son de 1952, esculpidos por Antonio Castillo Lastrucci",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Estrella",
+      "descripcion": "En el paso de palio se ve a la Virgen de la Estrella Coronada. La imagen de la Virgen es de origen anónimo pero había sido atribuida al escultor Juan Martínez Montañés y data del siglo XVII. Tras la restauración realizada a la imagen en 2010, el Instituto Andaluz de Patrimonio Histórico (IAPH) confirma y la atribuye a la producción del taller artístico del matrimonio constituido por los escultores barrocos andaluces Luisa Ignacia Roldán <<La Roldana>> (1652-1706) y Luis Antonio de los Arcos (1652-1711, siendo descartada la autoría de Montañés)",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.3838875,-6.0048799"
+}

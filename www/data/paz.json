@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/paz/",
+  "titulo": "Real y Fervorosa Hermandad Sacramental del Señor San Sebastián y Ntra. Sra. del Prado y Cofradía de Nazarenos de Ntro. Padre Jesús de la Victoria y María Santísima de la Paz",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Victoria",
+      "descripcion": "Nuestro Padre Jesús de la Victoria fue realizado por el escultor Antonio Illanes Rodríguez en 1940. El paso en el que procesiona el Domingo de Ramos refleja el momento en el que dos judíos colocan la cruz a Nuestro Padre Jesús de la Victoria con la ayuda de un tercer judío que actúa como Cirineo aunque no es el verdadero. El paso lo completa Anás que es testigo de la imagen y un centurión romano",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Paz",
+      "descripcion": "María Santísima de la Paz es también obra de Antonio Illanes Rodríguez y fue tallada en 1939. Fue bendecida el 25 de julio de 1939",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.374678,-5.983044"
+}

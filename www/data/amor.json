@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/amor/",
+  "titulo": "Primitiva Archicofradía Pontificia y Real Hermandad de Nazarenos de la Sagrada Entrada en Jerusalén, Santísimo Cristo del Amor, Ntra. Señora del Socorro y Santiago Apóstol",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Entrada en Jerusalén",
+      "descripcion": "La imagen de Jesús se atribuye a Pedro Roldán (siglo XVI) y la de San Juan fue realizada Antonio Castillo Lastrucci en 1935. Los hebreos son obra de Juan de Astorga en 1805, de Juan Abascal en 1976-1978, y de Fernando Aguado en 2014. San Pedro y Santiago son obras anónimas, aunque de taller roldanesco. La imagen de Zaqueo es anónima del siglo XVII",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo del Amor",
+      "descripcion": "Se trata de un paso realizado por Francisco Ruiz Gijón en 1694 con un crucificado obra de Juan de Mesa entre 1618 y 1620",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":" Nuestra Señora del Socorro",
+      "descripcion": "La Virgen ha procesionado en diversos pasos de palio a lo largo de los siglos, teniéndose constancia del primero en el siglo XVII. La mayor parte del paso palio actual es de mediados del siglo XX. La Virgen del Socorro es original de Juan de Mesa, realizándose en 1618, con restauraciones de Juan de Astorga (1803), Antonio Castillo Lastrucci (1934), quien le realizó las manos que posee actualmente, aunque estén colocadas en la posición original de las de Juan de Mesa, y Francisco Buiza (1967)",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.39025,-5.993205"
+}
