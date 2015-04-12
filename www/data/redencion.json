@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/redencion/",
+  "titulo": "Real e Ilustre Hdad. del Santísimo Sacramento y Cofradía de Nazarenos de Ntro. P. J. de la Redención en el Beso de Judas, María Stma. del Rocío, Ntra. Sra. Del Carmen, S. Fernando Rey y S. Lucas Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre de la Redención en el Beso de Judas",
+      "descripcion": "El paso de Cristo representa el momento inicial de la Pasión en que el apóstol Judas Iscariote besa a Jesús en el huerto de los olivos en presencia de los apóstoles San Juan, San Pedro, Santiago el Mayor,5 Santo Tomás y San Andrés, tiene como remate un olivo del huerto. Dicho beso era para indicar a los romanos a quién debían arrestar. Todas las imágenes están realizadas entre 1957 y 1959 por Antonio Castillo Lastrucci. Este Cristo recibe el nombre de Jesús de la Redención",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Rocío",
+      "descripcion": "La Virgen, con la advocación de la Virgen del Rocío, fue realizada también por Castillo Lastrucci. La hizo en 1955 y fue restaurada en 1962",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.399129,-5.958689"
+}

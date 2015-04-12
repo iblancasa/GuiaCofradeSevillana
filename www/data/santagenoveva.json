@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/santagenoveva/",
+  "titulo": "Hermandad y Cofradía de Nazarenos del Santísimo Sacramento, Ntro. Padre Jesús Cautivo en el Abandono de sus Discípulos, y Ntra. Señora de las Mercedes Coronada y San Juan Evangelista en la Tercera Palabra, Inmaculada Milagrosa y Santa Genoveva",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Cautivo en el Abandono de sus Discípulos",
+      "descripcion": "El primer paso de la hermandad está presidido por la imagen de Nuestro Padre Jesús Cautivo, obra de José Paz Vélez, que la realizó entre julio de 1956 y febrero de 1957. Está realizado en madera policromada, con una altura de 183 centímetros, viste hábito talar color púrpura y representa a Jesucristo solo, de pie y maniatado, tras ser prendido en el Huerto de los Olivos y abandonado por los discípulos",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de las Mercedes Coronada",
+      "descripcion": "La imagen de Nuestra Señora de las Mercedes también es obra del imaginero José Paz Vélez, realizada y bendecida en 1956, y fue donada por Antonio Lerate Santaella, primer hermano mayor de la hermandad. Está realizada en pino de Flandes, con una altura de 170 centímetros. Es del tipo andaluz de candelero, con la cabeza inclinada y la mirada baja. Tiene ojos de cristal y pestañas postizas, y le recorren dos lágrimas la mejilla derecha y una la izquierda; la boca aparece entreabierta, dejándose ver los dientes tallados",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.368116,-5.976717"
+}

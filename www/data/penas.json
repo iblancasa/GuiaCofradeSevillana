@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/penas/",
+  "titulo": "Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús de las Penas y María Santísima de los Dolores",
+  "titulares":{
+    "primero":{
+      "nombre":" Nuestro Padre Jesús de las Penas",
+      "descripcion": "La imagen de Jesús Caído en tierra, en la advocación de las Penas, recibió culto de los carmelitas calzados en el claustro principal del convento Casa Grande del Carmen, situado en la calle Baños de Sevilla. En el año 1810, con motivo de la invasión francesa, dicho cenobio fue clausurado y la imagen quedó sin cuidado hasta 1845, año en el que el convento abrió de nuevo sus puertas. El mal estado de la techumbre de la iglesia obligó al traslado de la imagen, que pasó a presidir la capilla del Santísimo hasta que la Casa Grande de la calle Baños fue cerrada definitivamente por la Junta Revolucionaria en 1868. Fue entonces cuando la efigie del Señor de las Penas pasó al templo parroquial de San Vicente",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de los Dolores",
+      "descripcion": "La imagen de la Virgen también es anónima del siglo XVIII, aunque su origen quizás sea italiano. Otros la han atribuido al imaginero neoclásico Blas Molner. Su última restauración se realizó en 1986. La Virgen lleva corona de plata dorada",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.394548,-5.999668"
+}

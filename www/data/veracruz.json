@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/veracruz/",
+  "titulo": "Muy Antigua, Siempre Ilustre, Venerable, Pontificia, Real, Fervorosa, Humilde y Seráfica Hermandad y Archicofradía de Nazarenos de la Stma. Vera-Cruz, Sangre de Nuestro Señor Jesucristo y Tristezas de María Santísima",
+  "titulares":{
+    "primero":{
+      "nombre":"Sangre de Nuestro Señor Jesucristo",
+      "descripcion": "El Santísimo Cristo de la Vera Cruz es una escultura realizada en madera policromada, de 1,35 m de alto. Se cataloga como obra anónima sevillana de la primera mitad del siglo XVI. Es un Cristo muerto que se fija al madero con tres clavos. En origen debió itinerar en una cruz alzada por tres sacerdotes. Es la imagen cristífera más antigua que procesiona en la Semana Santa de Sevilla. Morfológicamente puede relacionarse con algún artífice del círculo de Roque de Balduque. Entre ellos, despunta Antón Vázquez, autor del interesante Cristo de la Vera Cruz de Arcos de la Frontera (Cádiz), fechable hacia 1540. Durante el año se encuentra en el Altar Mayor de la Capilla del Dulce Nombre de Jesús de Sevilla",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Tristezas de María Santísima",
+      "descripcion": "La Santísima Virgen de las Tristezas es una escultura de madera policromada de las llamada “de candelero”, al estar destinada exclusivamente para ser vestida y tener únicamente talladas la cabeza y las manos. En el año 1942 al reorganizarse la corporación en la Iglesia de San Alberto, y en ausencia de la primitiva Virgen, se encargó realizar una Virgen Dolorosa a D. Antonio Illanes, siendo nombrado por ello Hermano de Honor",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.395079,-5.998181"
+}

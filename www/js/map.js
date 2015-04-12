@@ -53,6 +53,143 @@ stemplate.done(function (data) {
 });
 
 
+
+
+
+
+/********LUNES SANTO********/
+
+dia ="lunessanto";
+
+//Polígono de San Pablo
+  image = img+dia+'/sanpablo/escudo.png';
+  position = new google.maps.LatLng(37.399129,-5.958689);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanpablo");
+  });
+
+
+//Redención
+  image = img+dia+'/redencion/escudo.png';
+  position = new google.maps.LatLng(37.391634,-5.986524);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("redencion");
+  });
+
+
+//Santa Genoveva
+  image = img+dia+'/santagenoveva/escudo.png';
+  position = new google.maps.LatLng(37.368116,-5.976717);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("santagenoveva");
+  });
+
+
+//Santa Marta
+  image = img+dia+'/santamarta/escudo.png';
+  position = new google.maps.LatLng(37.394542,-5.994204);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("santamarta");
+  });
+
+
+
+//San Gonzalo
+  image = img+dia+'/sangonzalo/escudo.png';
+  position = new google.maps.LatLng(37.380031,-6.010308);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sangonzalo");
+ });
+
+
+//Vera Cruz
+  image = img+dia+'/veracruz/escudo.png';
+  position = new google.maps.LatLng(37.395079,-5.998181);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("veracruz");
+  });
+
+
+//Penas de San Vicente
+  image = img+dia+'/penas/escudo.png';
+  position = new google.maps.LatLng(37.394548,-5.999668);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("penas");
+  });
+
+
+//Las Aguas
+  image = img+dia+'/aguas/escudo.png';
+  position = new google.maps.LatLng(37.384788,-5.996421);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("aguas");
+  });
+
+
+//El Museo
+  image = img+dia+'/museo/escudo.png';
+  position = new google.maps.LatLng(37.393008,-5.999705);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("museo");
+  });
+
+
+
+
 /********MARTES SANTO********/
 
 dia ="martessanto";
@@ -181,6 +318,7 @@ dia ="martessanto";
    google.maps.event.addListener(marker, 'click', function() {
    cargar("santacruz");
   });
+
 
 
 
