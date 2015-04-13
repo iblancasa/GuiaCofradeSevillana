@@ -52,6 +52,135 @@ $.get('plantillahermandad.html',function (data) {
 });
 
 
+/********VÍSPERAS********/
+
+dia ="visperas";
+
+//San José Obrero
+  image = img+dia+'/sanjoseobrero/escudo.png';
+  position = new google.maps.LatLng(37.397422,-5.975776);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("sanjoseobrero");
+  });
+
+
+//Torreblanca
+  image = img+dia+'/torreblanca/escudo.png';
+  position = new google.maps.LatLng(37.383501,-5.899509);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("torreblanca");
+  });
+
+
+//Divino Perdón
+  image = img+dia+'/divinoperdon/escudo.png';
+  position = new google.maps.LatLng(37.410284,-5.919035);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("divinoperdon");
+  });
+
+
+
+//Pasión y Muerte
+  image = img+dia+'/pasionymuerte/escudo.png';
+  position = new google.maps.LatLng(37.377792,-6.004232);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("pasionymuerte");
+  });
+
+
+//La Misión
+  image = img+dia+'/lamision/escudo.png';
+  position = new google.maps.LatLng(37.356519,-5.984457);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("lamision");
+  });
+
+
+//Pino Montano
+  image = img+dia+'/pinomontano/escudo.png';
+  position = new google.maps.LatLng(37.4231971,-5.9638876);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("pinomontano");
+  });
+
+
+//Dulce Nombre de Bellavista
+  image = img+dia+'/dulcenombre/escudo.png';
+  position = new google.maps.LatLng(37.3182,-5.967635);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("dulcenombre");
+  });
+
+
+//Padre Pío
+  image = img+dia+'/padrepio/escudo.png';
+  position = new google.maps.LatLng(37.371775,-5.940722);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("padrepio");
+  });
+
+
+//Cristo de la Corona
+  image = img+dia+'/corona/escudo.png';
+  position = new google.maps.LatLng(37.386194,-5.994096);
+  marker = new google.maps.Marker({
+     position: position,
+     map: map,
+     icon: image
+   });
+
+   google.maps.event.addListener(marker, 'click', function() {
+   cargar("corona");
+  });
 
 
 

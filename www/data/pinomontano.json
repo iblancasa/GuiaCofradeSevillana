@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/pinomontano/",
+  "titulo": "Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús de Nazaret, María Santísima del Amor, San Marcos Evangelista y San Isidro Labrador",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de Nazaret",
+      "descripcion": "La imagen de Ntro. Padre Jesús de Nazaret, realizada por Fernando Castejón López en 1989 en madera de cedro, es una talla para vestir aunque de cuerpo completamente anatomizado. Esta policromado al óleo y mide 1,75 m. En el año 2002 fue remodelada por su autor acentuando la inclinación de la cabeza hacia abajo y hacia la derecha y el fruncido del entrecejo. Además se añadió pelo y barba y se alargo la zancada. Por último se restauró la policromía. La talla es de un marcado barroquismo, debido a su marcada expresión en el rostro y a sus ojos verdes que expresan un hondo pesar a la vez de una infinita dulzura. El movimiento de la imagen, que muestra a un Jesús maniatado y caminando, es muy acentuado evidenciando otra vez la inspiración claramente barroca de su autor. Su encarnadura de tonos oscuros le da la apariencia de imagen antigua",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Amor",
+      "descripcion": "La imagen de María Stma. del Amor es una talla de candelero realizada por Fernando Castejón en el año 1994 en madera de cedro. Policromada al óleo, mide 1,65 m. Nos presenta a María como una mujer joven, bella y de tez morena; cumpliendo perfectamente con la tipología de la dolorosa castiza sevillana. Su cabeza se inclina levemente hacia la derecha acentuando su expresión de sufrimiento y angustia aunque no exenta de dulzura; es una pena que parece nacer del más profundo amor por su hijo. Su boca entreabierta en la que se adivinan algunos dientes parece estar murmurando, lo que refuerza la sensación de estar ensimismada en su dolor, ajena casi a lo que ocurra a su alrededor. De sus ojos color miel caen cinco lágrimas, ajustándose a la iconografía clásica sevillana",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.4231971,-5.9638876"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/divinoperdon/",
+  "titulo": "Franciscana Hermandad de Penitencia y Cofradía de Nazarenos de María Santísima de la Purísima Concepción, Santo Cáliz de Ntro. Padre Jesús del Divino Perdón y Beata Ana María de Javouhey",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús del Divino Perdón",
+      "descripcion": "Jesús Nazareno sobre paso caoba obra de Navarro Arteaga en 2002",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Purísima Concepción",
+      "descripcion": "Dolorosa bajo palio obra de Navarro Arteaga en 2002",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.410284,-5.919035"
+}

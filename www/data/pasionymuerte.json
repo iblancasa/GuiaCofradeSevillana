@@ -1,0 +1,12 @@
+{
+  "carpeta": "img/hermandades/visperas/pasionymuerte/",
+  "titulo": "Hermandad de Santa María del Buen Aire y Cofradía de Nazarenos del Santísimo Cristo de Pasión y Muerte, Resurrección de Ntro. Señor y Ntra. Sra. del Desconsuelo y Visitación",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de Pasión y Muerte",
+      "descripcion": "El Santísimo Cristo es obra del escultor y hermano fundador de la corporación, don José Antonio Navarro Arteaga en 1996. Está tallada en cedro y mide 1,82 m de altura, ideada para ser procesionada en un paso en solitario. La imagen está inspirada en las tallas cristíferas del primer barroco sevillano, con ciertas reminiscencias montañesinas. Se podría calificar como una obra clásica de la imaginería sevillana aunque con el sello característico de su autor",
+      "imagen": "primero.png"
+    }
+  },
+  "coordenadas": "37.377792,-6.004232"
+}
