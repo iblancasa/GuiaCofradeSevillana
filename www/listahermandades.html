@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/jquery.mobile.flatui.css" />
+  <link rel="stylesheet" type="text/css" href="css/hermandades.css" />
+  <link rel="stylesheet" type="text/css" href="css/index.css" />
+  <script src="js/jquery.js"></script>
+  <script src="js/jquery.mobile-1.4.0-rc.1.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.1/handlebars.js"></script>
+</head>
+
+<body  style="width:100%; height:100%">
+<div id="codigo">
+
+</div>
+
+</body>
+
+
+<script id="entry-template" type="text/x-handlebars-template">
+  <header>
+  <h1>Hermandades y Cofradías</h1>
+  </header>
+
+    <section>
+      {{# each dias}}
+        <h1>{{ @key }}</h1>
+        {{# each this }}
+        <p>{{ nombre }}</p>
+        {{/each}}
+      {{/each}}
+  </section>
+</script>
+
+<script>
+      var archivo = "data/list.json";
+
+      var xhr = $.ajax({
+      url: archivo,
+      crossDomain: true,
+      jsonpCallback: 'cb',
+      dataType: 'json'
+      });
+
+      xhr.done(function (data) {
+
+        var source   = $("#entry-template").html();
+        var template = Handlebars.compile(source);
+        var html    = template(data);
+        $("#codigo").html(html);
+      });
+
+
+
+</script>
+
+</html>
