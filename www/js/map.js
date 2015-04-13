@@ -481,20 +481,6 @@ dia ="martessanto";
   });
 
 
-//San Esteban
-  image = img+dia+'/sanesteban/escudo.png';
-  position = new google.maps.LatLng(37.389771,-5.986258);
-  marker = new google.maps.Marker({
-     position: position,
-     map: map,
-     icon: image
-   });
-
-   google.maps.event.addListener(marker, 'click', function() {
-   cargar("sanesteban");
-  });
-
-
 //Los Estudiantes
   image = img+dia+'/estudiantes/escudo.png';
   position = new google.maps.LatLng(37.382062,-5.991809);
