@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/martessanto/sanbenito/",
+  "titulo": "Hermandad del Santísimo Sacramento, Pontificia y Real Archicofradía de Nazarenos de la Sagrada Presentación de Jesús al Pueblo, Santísimo Cristo de la Sangre, Nuestra Señora de la Encarnación Coronada y San Benito Abad",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Presentación de Jesús al Pueblo",
+      "descripcion": "En el primer paso se representa la escena de la Presentación de Jesús al Pueblo obra del escultor Antonio Castillo Lastrucci",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de la Sangre",
+      "descripcion": "El segundo porta la imagen del Cristo de la Sangre tallada por Francisco Buiza",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora de la Encarnación Coronada",
+      "descripcion": "Imagen de cronología incierta que según las últimas investigaciones data de finales del siglo XVII o principios del siglo XVIII.",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.387694,-5.979771"
+}

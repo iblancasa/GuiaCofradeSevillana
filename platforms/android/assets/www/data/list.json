@@ -1,0 +1,222 @@
+{
+  "dias":{
+    "Vísperas":[
+        { "nombre": "San José Obrero",
+        "carga": "sanjoseobrero"
+        },
+        { "nombre": "Torreblanca",
+        "carga": "torreblanca"
+        },
+        { "nombre": "Divino Perdón",
+        "carga": "divinoperdon"
+        },
+        { "nombre": "Pasión y Muerte",
+        "carga": "pasionymuerte"
+        },
+        { "nombre": "La Misión",
+        "carga": "lamision"
+        },
+        { "nombre": "Pino Montano",
+        "carga":"pinomontano"
+        },
+        { "nombre": "Dulce Nombre Bellavista",
+        "carga":"dulcenombre"
+        },
+        { "nombre": "Padre Pío",
+        "carga":"padrepio"
+        },
+        { "nombre": "Cristo de la Corona",
+        "carga":"corona"
+        }
+    ],
+    "Domingo de Ramos":[
+      { "nombre": "Despojado",
+        "carga": "paz"
+      },
+      { "nombre": "La Paz",
+        "carga": "despojado"
+      },
+      { "nombre": "La Cena",
+        "carga": "cena"
+      },
+      { "nombre": "La Hiniesta",
+        "carga": "hiniesta"
+      },
+      { "nombre": "Estrella",
+        "carga": "estrella"
+      },
+      { "nombre": "Amargura",
+        "carga": "amargura"
+      },
+      { "nombre": "El Amor",
+        "carga": "amor"
+      }
+    ],
+    "Lunes Santo":[
+      { "nombre": "Polígono de San Pablo",
+        "carga": "sanpablo"
+      },
+      { "nombre": "Redención",
+        "carga": "redencion"
+      },
+      { "nombre": "Santa Genoveva",
+        "carga": "santagenoveva"
+      },
+      { "nombre": "Santa Marta",
+        "carga": "santamarta"
+      },
+      { "nombre": "San Gonzalo",
+        "carga": "sangonzalo"
+      },
+      { "nombre": "Vera Cruz",
+        "carga": "veracruz"
+      },
+      { "nombre": "Penas de San Vicente",
+        "carga": "penas"
+      },
+      { "nombre": "Las Aguas",
+        "carga": "aguas"
+      },
+      { "nombre": "El Museo",
+        "carga": "museo"
+      }
+    ],
+    "Martes Santo":[
+      { "nombre": "El Cerro",
+        "carga": "cerro"
+      },
+      { "nombre": "Los Javieres",
+        "carga": "losjavieres"
+      },
+      { "nombre": "San Esteban",
+        "carga": "sanesteban"
+      },
+      { "nombre": "Los Estudiantes",
+        "carga": "estudiantes"
+      },
+      { "nombre": "San Benito",
+        "carga": "sanbenito"
+      },
+      { "nombre": "La Candelaria",
+        "carga": "candelaria"
+      },
+      { "nombre": "La Bofetá",
+        "carga": "bofeta"
+      },
+      { "nombre": "Santa Cruz",
+        "carga": "santacruz"
+      }
+    ],
+    "Miércoles Santo":[
+      { "nombre": "Carmen Doloroso",
+        "carga": "carmendoloroso"
+      },
+      { "nombre": "La Sed",
+        "carga": "sed"
+      },
+      { "nombre": "San Bernardo",
+        "carga": "sanbernardo"
+      },
+      { "nombre": "El Buen Fin",
+        "carga": "buenfin"
+      },
+      { "nombre": "El Baratillo",
+        "carga": "baratillo"
+      },
+      { "nombre": "Cristo de Burgos",
+        "carga": "burgos"
+      },
+      { "nombre": "Las Siete Palabras",
+        "carga": "sietepalabras"
+      },
+      { "nombre": "Los Panaderos",
+        "carga": "panaderos"
+      }
+    ],
+    "Jueves Santo":[
+      { "nombre": "Los Negritos",
+        "carga": "negritos"
+      },
+      { "nombre": "La Exaltación",
+        "carga": "exaltacion"
+      },
+      { "nombre": "Las Cigarreras",
+        "carga": "cigarreras"
+      },
+      { "nombre": "Monte-Sión",
+        "carga": "montesion"
+      },
+      { "nombre": "La Quinta Angustia",
+        "carga": "quintaangustia"
+      },
+      { "nombre": "El Valle",
+        "carga": "valle"
+      },
+      { "nombre": "Pasión",
+        "carga": "pasion"
+      }
+    ],
+    "Madrugá":[
+      { "nombre": "El Silencio",
+        "carga": "silencio"
+      },
+      { "nombre": "Gran Poder",
+        "carga": "granpoder"
+      },
+      { "nombre": "Macarena",
+        "carga": "macarena"
+      },
+      { "nombre": "El Calvario",
+        "carga": "calvario"
+      },
+      { "nombre": "Esperanza de Triana",
+        "carga": "triana"
+      },
+      { "nombre": "Los Gitanos",
+        "carga": "gitanos"
+      }
+    ],
+    "Viernes Santo":[
+      { "nombre": "La Carretería",
+        "carga": "carreteria"
+      },
+      { "nombre": "Soledad Sanbuenaventura",
+        "carga": "soledadsanbuenaventura"
+      },
+      { "nombre": "El Cachorro",
+        "carga": "cachorro"
+      },
+      { "nombre": "La O",
+        "carga": "lao"
+      },
+      { "nombre": "San Isidoro",
+        "carga": "sanisidoro"
+      },
+      { "nombre": "Monserrat",
+        "carga": "montserrat"
+      },
+      { "nombre": "La Mortaja",
+        "carga": "mortaja"
+      }
+    ],
+    "Sábado Santo":[
+      { "nombre": "El Sol",
+        "carga": "sol"
+      },
+      { "nombre": "Los Servitas",
+        "carga": "servitas"
+      },
+      { "nombre": "La Trinidad",
+        "carga": "trinidad"
+      },
+      { "nombre": "Soledad de San Lorenzo",
+        "carga": "soledadsanlorenzo"
+      }
+    ],
+    "Domingo de Resurrección":[
+      { "nombre": "La Resurrección",
+        "carga": "resurreccion"
+      }
+    ]
+  }
+}

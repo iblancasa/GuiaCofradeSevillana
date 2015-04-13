@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/sanpablo/",
+  "titulo": "Fervorosa y Trinitaria Hermandad del Santísimo Sacramento y Cofradía de Nazarenos de Nuestro Padre Jesús Cautivo y Rescatado, Nuestra Señora del Rosario Doloroso, San Juan de Mata y San Ignacio de Loyola",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Cautivo y Rescatado",
+      "descripcion": "Fue realizado en el taller de Francisco Pineda. En el año 2008 la Hermandad estrenará las imágenes que acompañan a Jesús en el paso, obra de Luis Álvarez Duarte. Estas imágenes son el rey Herodes, el Sumo Sacerdote, dos romanos y un sanedrita",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora del Rosario Doloroso",
+      "descripcion": "La imagen de la virgen era obra de Luis Alberto García Jeute pero en 2007 fue sustituída por una que era obra de Luis Álvarez Duarte. En el paso palio destaca un ostensorio con una reliquia de Santa Ángela de la Cruz, monja sevillana fundadora de la Orden de las Hermanas de la Cruz",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.399129,-5.958689"
+}

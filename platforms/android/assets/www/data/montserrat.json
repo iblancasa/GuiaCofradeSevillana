@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/viernessanto/montserrat/",
+  "titulo": "Pontificia, Real, Ilustre, Antigua y Primitiva Hermandad de Nuestra Señora del Rosario y Cofradía de Nazarenos del Santísimo Cristo de la Conversión del Buen Ladrón y Nuestra Señora de Montserrat",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Conversión del Buen Ladrón",
+      "descripcion": "Jesucristo crucificado tallada por el escultor Juan de Mesa en el año 1620. Las imágenes de María Magdalena y San Juan Evangelista tallas anónimas del siglo XIX, los ladrones son obra de Pedro Nieto Montañés de 1628 y la Virgen del Rosario es obra de Cristobal Ramos del siglo XVIII",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de Montserrat",
+      "descripcion": "Talla de Gaspar de la Cueva realizada en el siglo XVII y restaurada por Gabriel de Astorga en 1851.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.390176,-5.998827"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/cigarreras/",
+  "titulo": "Real e Ilustre Hermandad y Cofradía de Nazarenos de la Sagrada Columna y Azotes de Nuestro Señor Jesucristo y María Santísima de la Victoria",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Columna y Azotes de Nuestro Señor Jesucristo",
+      "descripcion": "El Señor actual es de 1973, es obra de Francisco Buiza. Fue restaurada entre noviembre de 2005 y febrero de 2006 por Enrique Gutiérrez Carrasquilla. El de Misterio de la Columna y Azotes es neobarroco dorado, lleva cuatro cartelas de José Antonio Navarro Arteaga (1997). Tiene cinco figuras secundarias consistentes en cuatro soldados romanos, dos que azotan al Señor, uno que porta la Sagrada Púrpura (en recuerdo del tercer paso del Santo Cristo de la Púrpura que sacó la Cofradía hasta 1874) y otro que rocía de ungüento reanimatorio al Reo, además de un centurión que ordena parar la flagelación a uno de los flagelantes. Todas las figuras secundarias son de José Antonio Navarro Arteaga (el que porta la Sagrada Púrpura de 1996 y los restantes de 2003).",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Victoria",
+      "descripcion": " La Virgen de la Victoria es talla del siglo XVII, ejecutada muy probablemente entre 1611 y 1628, intervenida por Juan de Astorga en 1803 (inclinación de la cabeza mediante cuña en el cuello, introducción de ojos de cristal y posiblemente policromía a pincel sin pulir). El paso de María Santísima de la Victoria, tiene bambalinas exteriores y manto diseñados de Pedro Domínguez (1892-1893) basado en la fachada plateresca del Ayuntamiento de Sevilla y en la Sacristía Mayor de la Catedral, ya que fue su restaurador-conservador",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.377527,-5.995917"
+}

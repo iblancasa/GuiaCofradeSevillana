@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/hiniesta/",
+  "titulo": "Real e Ilustre Hermandad Sacramental de la Inmaculada Concepción, Franciscana, Primitiva y Cisterciense Cofradía de Nazarenos de la Piedad de Nuestra Señora, Santísimo Cristo de la Buena Muerte, Santa María Magdalena y María Santísima de la Hiniesta Dolorosa y Gloriosa Coronada",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Buena Muerte",
+      "descripcion": "En el paso de Cristo se le representa muerto en la cruz con María Magdalena arrodillada a sus pies. El paso, realizado en 1972, es de estilo renacentista, iluminado por cuatro hachones. Es de madera de caoba con apliques de orfebrería en plata de ley, cartelas y ángeles en madera de naranjo. El Cristo lleva potencias de plata dorada. Tallado en 1970. La plata que compone el paso de palio en sus varales y la orfebrería de los respiraderos, es de plata de ley, así como los candelabros de cola, jarras, peana y más de la mitad de la candelería. El Cristo y la Magdalena son obra de Antonio Castillo Lastrucci.2 El cristo es de 1938 y la Magdalena es de 1944",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Hiniesta Dolorosa",
+      "descripcion": "La Virgen bajo palio es de 1937 y también es de Antonio Castillo Lastrucci",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.39883,-5.985679"
+}

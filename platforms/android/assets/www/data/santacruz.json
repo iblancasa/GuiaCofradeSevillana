@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/martessanto/santacruz/",
+  "titulo": "Ilustre y Antigua Hermandad del Santísimo Sacramento y Nuestra Señora de la Paz, Fervorosa Cofradía de Nazarenos del Santísimo Cristo de las Misericordias, Santa María de la Antigua y Nuestra Señora de los Dolores",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de las Misericordias",
+      "descripcion": "El Cristo está datado en el siglo XVII (1670-1682) y es talla anónima atribuida a Pedro Roldán o a su escuela. Otros autores atribuyen directamente su autoría a Francisco A. Ruiz Gijón. La talla mide 167 cm de altura y 145 cm de mano a mano. La materia prima utilizada para la talla es madera de ciprés, siendo los dientes de marfil y los ojos de cristal",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santa María de la Antigua",
+      "descripcion": "Después de muchos años, el Martes Santo de 2004, el Stmo. Cristo de las Misericordias de la hermandad de Santa Cruz procesiona de nuevo acompañado de la Virgen de la Antigua en posición Stabat Mater. El 25 de noviembre del 2003, en Cabildo General Extraordinario de la corporación, se acordó incorporar en la Estación de Penitencia ésta primitiva imagen que se ha repuesto al culto para ser venerada con la advocación de Santa María de la Antigua, Es obra de Emilio Pizarro Cruz (1905)",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora de los Dolores",
+      "descripcion": "La imagen de la Dolorosa bajo Palio, tallada de cabeza y manos de 165 cm de altura, es obra de Antonio Eslava Rubio realizada en el año 1967. En el cabildo general, celebrado el 4 de julio de 1967, se decide la compra de esta talla en el precio de 30.000 pesetas. La imagen fue bendecida el 25 de octubre de 1967 y se estrena procesionalmente en la Semana Santa de 1968",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.386924,-5.989732"
+}

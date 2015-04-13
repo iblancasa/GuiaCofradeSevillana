@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/despojado/",
+  "titulo": "Humilde y Fervorosa Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús Despojado de sus Vestiduras, María Santísima de los Dolores y Misericordia, Mayor Dolor de Nuestra Señora, San Juan Evangelista, San Bartolomé Apóstol y San Antonio María Claret",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Despojado de sus Vestiduras",
+      "descripcion": "El primer paso representa el momento en que Jesús es despojado de sus vestiduras antes de ser crucificado. La imagen del cristo fue realizada por Antonio Perea Sánchez en 1939",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de los Dolores y Misericordia",
+      "descripcion": "La Virgen de los Dolores acompañada por San Juan, obras del escultor Antonio Eslava en 1962 y 1972. La orfebrería es obra de Hijos de Juan Fernández y Manuel Ríos.4 Los respiraderos del paso son de Cayetano González",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.387876,-5.997907"
+}

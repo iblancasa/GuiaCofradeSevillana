@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/montesion/",
+  "titulo": "Pontificia, Real, Ilustre, Antigua y Dominica Hermandad y Archicofradía de Nazarenos de la Sagrada Oración de Nuestro Señor Jesucristo en el Huerto, Santísimo Cristo de la Salud y María Santísima del Rosario en sus Misterios Dolorosos Coronada y Santo Domingo de Guzmán",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Oración de Nuestro Señor Jesucristo en el Huerto",
+      "descripcion": "Las imágenes han sido atribuidas a distintos artistas. Finalmente, se determinó que las figuras del Misterio eran obra del taller de Pedro Roldán, fechables entre los años 1675 y 1680. El paso es de estilo neobarroco, iluminado por candelabros de guardabrisas. El canasto fue tallado en 1955 y estrenado dos años más tarde; fue restaurado entre 1985 y 1987 por los talleres de Manuel Calvo Camacho, y en 1988 se incorporaron cuatro capillas con los Evangelistas, obra de Ricardo Rivera",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Rosario en sus Misterios Dolorosos Coronada",
+      "descripcion": "El segundo paso de la hermandad custodia bajo palio la imagen de María Santísima del Rosario, una obra de escultor anónimo del siglo XVII, que viste manto blanco bordado en oro el cual se recoge en la cintura a bullones,y porta la corona de oro de la coronación canonica de 2004. El techo de palio y bambalinas son de malla bordadas en oro la gloria del palio representa a la Stm Virgen del Rosario en el momento de la aparición a Santo Domingo de Guzman, tiene orfebrería en plata de ley con candelabros de cola y candelería. La peana y los respiraderos también son de plata de ley, y fue restaurado completamente en el año 2003. Destacan los doce rosarios de plata que cuelgan de los varales creando sensación de compas con su movimiento",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.396867,-5.991324"
+}

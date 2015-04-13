@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/exaltacion/",
+  "titulo": "Pontificia, Real e Ilustre Hdad. Sacramental Purísima Concepción Ánimas Benditas del Purgatorio, San Sebastián Mártir y Archicofradía de Nazarenos del Santísimo Cristo de la Exaltación y Nuestra Señora de las Lágrimas",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Exaltación",
+      "descripcion": "El primer paso representa al Cristo crucificado en el momento de la exaltación, dos sayones levantan la cruz tirando de sogas y dos más la fijan al suelo. Otras imágenes son las del Buen Ladrón, el Mal Ladrón, y dos centuriones romanos a caballo. La imagen de Cristo es realizada en 1687, los sayones que levantan la cruz y los romanos son creados en el siglo XVII por Luis Antonio de los Arcos (contrato firmado con fecha 13 de junio de 1678), los ladrones, aunque incluidos en el contrato mencionado, se suponen obra de Luisa Roldán (La Roldana) por su mejor factura en el siglo XVII y los caballos son de 1960 tallados por Luis Abascal",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de las Lágrimas",
+      "descripcion": "Es de autor anónimo del siglo XVIII, siendo restaurada en 1956 por Ricardo Comas Fagundo y en 2007 por Pedro Manzano",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.394055,-5.98771"
+}

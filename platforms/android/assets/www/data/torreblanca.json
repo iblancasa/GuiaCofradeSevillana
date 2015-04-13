@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/torreblanca/",
+  "titulo": "Humilde y Fervorosa Hermandad Sacramental del Stmo. Nombre de Jesús y Cofradía de Nazarenos de Ntro. Padre Jesús Cautivo ante Pilato, María Stma. de los Dolores y San Antonio de Padua",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Cautivo ante Pilato",
+      "descripcion": "El paso de Cristo representa el momento en que Jesús accede a la Casa de Poncio Pilato y es interrogado por él, accediendo a la pregunta de si él era el Rey de los Judíos. En el misterio aparecen el Señor Cautivo ante Pilato obra de Jesús Méndez Lastrucci (1992) así como Pilato que lo interroga, un sacerdote judío, un centurión romano y un esclavo judío, tallas todas de Juan Antonio Blanco Ramos (2005)",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de los Dolores",
+      "descripcion": "En el paso de palio, la Virgen de los Dolores obra de José María Gamero Viñau (1987)",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.383501,-5.899509"
+}

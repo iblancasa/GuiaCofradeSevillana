@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/martessanto/estudiantes/",
+  "titulo": "Pontificia, Patriarcal e llustrísima Hermandad y Archicofradía del Santísimo Cristo de la Buena Muerte y María Santísima de la Angustia",
+  "titulares":{
+    "primero":{
+      "nombre":" Santísimo Cristo de la Buena Muerte",
+      "descripcion": "La imagen fue realizada por Juan de Mesa en 1620, y fue restaurada en 1983, 1986 y 1994. El paso es de estilo neorrenacentista, realizado en madera de caoba en 1926, y está iluminado por cuatro hachones de color tiniebla. Este paso no lleva acompañamiento musical",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Angustia",
+      "descripcion": "Realizada por Juan de Astorga en 1817, y perteneció a la extinta Hermandad del Desprendimiento de Cristo, donde se rendía culto bajo la advocación del Dulce Nombre de María",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.382062,-5.991809"
+}

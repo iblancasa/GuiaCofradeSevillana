@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/sangonzalo/",
+  "titulo": "Pontificia y Real Hermandad del Santísimo Sacramento y Cofradía de Nazarenos de Nuestro Padre Jesús en su Soberano Poder ante Caifás, Nuestra Señora de la Salud y San Juan Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús en su Soberano Poder ante Caifás",
+      "descripcion": "El primer paso con el que procesiona esta Hermandad de Gonzalo en su estación penitencial representa a Jesús ante Caifás en presencia de dos sanedritas, un soldado romano y un esclavo negro que sostiene el libro de las profecías. Las imágenes del Señor y Caifás son tallas de Luis Ortega Bru entre 1975 y 1976 respectivamente, siendo restaurado el Señor en 1984 y nuevamente retocado en 1986; el resto de figuras del misterio son de Castillo Lastrucci de 1962 y representa el momento cumbre de la vida de Jesucristo, de donde arranca toda su pasión y muerte, al declarar ante el Pontífice Caifás su condición divina de Hijo de Dios",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Salud",
+      "descripcion": "En el segundo paso figura la imagen de la Virgen Dolorosa, con el título de la Salud, realizada en 1977 por Luis Ortega Bru, siendo sus manos las de la antigua dolorosa tallada por Antonio Eslava en 1968",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.380031,-6.010308"
+}

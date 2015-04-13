@@ -1,0 +1,12 @@
+{
+  "carpeta": "img/hermandades/visperas/lamision/",
+  "titulo": "Archicofradía del Inmaculado Corazón de María, Hermandad Sacramental y Cofradía de Nazarenos del Santo Cristo de la Misión, Nuestra Señora del Amparo, San Juan Evangelista y San Antonio María Claret",
+  "titulares":{
+    "primero":{
+      "nombre":"Santo Cristo de la Misión",
+      "descripcion": "Su autor es José Manuel Bonilla Cornejo (1988) y está realizado en madera de pino de Flandes",
+      "imagen": "primero.png"
+    }
+  },
+  "coordenadas": "37.356519,-5.984457"
+}

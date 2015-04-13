@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/sanjoseobrero/",
+  "titulo": "Humilde y Fervorosa Hermandad Sacramental y de Gloria de San José Obrero, San Francisco de Paula e Inmaculada Concepción y Cofradía de Nazarenos de Nuestro Padre Jesús de la Caridad y Nuestra Señora de los Dolores",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Caridad",
+      "descripcion": "Señor de la Caridad, obra de Fernando Aguado del año 2004",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de los Dolores",
+      "descripcion": "Nuestra señora de los Dolores, talla realizada por el escultor Luis Álvarez Duarte en el año 1962",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.397422,-5.975776"
+}

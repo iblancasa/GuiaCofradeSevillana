@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/lunessanto/aguas/",
+  "titulo": "Real, Antigua, Ilustre y Fervorosa Hermandad de la Santa Cruz y Nuestra Señora del Rosario y Archicofradía de Nazarenos del Santísimo Cristo de Las Aguas, Nuestra Madre y Señora del Mayor Dolor y María Santísima de Guadalupe",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de Las Aguas",
+      "descripcion": "La imagen de Cristo es realizada en 1942. En el paso de Cristo, se representa a Jesús muerto en la cruz y un ángel con un cáliz preparado para recoger el <<agua>> que sale de su costado, en presencia de la Virgen del Mayor Dolor, de San Juan y de la Magdalena",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Madre y Señora del Mayor Dolor",
+      "descripcion": "Es obra del siglo XVIII",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"María Santísima de Guadalupe",
+      "descripcion": "La Virgen de Guadalupe fue tallada en 1966 por Luis Álvarez Duarte y la mascarilla de la imagen se restauró en 1981 y nuevamente en 2010",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.384788,-5.996421"
+}

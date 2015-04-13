@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/cena/",
+  "titulo": "Antigua, Real, Ilustre y Fervorosa Hermandad Sacramental Esclavitud de Nuestra Señora de la Encarnación y Cofradía de Nazarenos de la Sagrada Cena, Santísimo Cristo de la Humildad y Paciencia y Nuestra Señora del Subterráneo",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Cena",
+      "descripcion": "Representa la escena de la última cena. La talla de Jesucristo fue realizada en 1955 por el escultor Sebastián Santos. Las esculturas que representan a los 12 apóstoles son obra de Luis Ortega Bru y fueren realizadas entre los años 1975 y 1982",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de la Humildad y Paciencia",
+      "descripcion": "Representa a Jesucristo en la advocación de la humildad y paciencia. La escultura es del siglo XVII de autor desconocido",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora del Subterráneo",
+      "descripcion": "Representa a la Virgen del Subterráneo, escultura atribuida a Juan de Astorga",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.394219,-5.987474"
+}

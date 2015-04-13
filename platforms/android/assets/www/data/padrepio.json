@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/padrepio/",
+  "titulo": "Hermandad Sacramental de la Santa Cruz en el Monte Calvario y Cofradía de Nazarenos de Nuestro Padre Jesús de la Salud y Clemencia, Santísima Virgen Madre de la Divina Gracia y San Juan de la Cruz",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Salud y Clemencia",
+      "descripcion": "La talla es obra del escultor Fernando Murciano Abad y fue realizada en 1996",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísima Virgen Madre de la Divina Gracia",
+      "descripcion": "La Virgen Madre de la Divina Gracia bajo palio, obra de Luis Alvarez Duarte tallada en 1987 y restaurada en el 2010",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.371775,-5.940722"
+}

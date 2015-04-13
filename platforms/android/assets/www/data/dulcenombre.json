@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/visperas/dulcenombre/",
+  "titulo": "Hermandad de Penitencia y Cofradía de Nazarenos de Nuestro Padre Jesús de La Salud y Remedios y María Santísima del Dulce Nombre en sus Dolores y Compasión",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de La Salud y Remedios",
+      "descripcion": "Fue realizada por Antonio Castillo Lastrucci, tras un encargo recibido en 1964, para una cofradía de Jerez de la Frontera, que no llegó a fundarse",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima del Dulce Nombre en sus Dolores y Compasión",
+      "descripcion": "Realizada al estilo tradicional sevillano por el imaginero Luis Álvarez Duarte en 1969",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.3182,-5.967635"
+}

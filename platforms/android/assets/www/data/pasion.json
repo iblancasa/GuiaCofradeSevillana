@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/juevessanto/pasion/",
+  "titulo": "Pontificia Real y Primitiva Archicofradía de Nazarenos del Santísimo Cristo de la Coronación de Espinas, Nuestro Padre Jesús con la Cruz al Hombro, Nuestra Señora del Valle y Santa Mujer Verónica",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Pasión",
+      "descripcion": "La imagen de Jesús es obra de Juan Martínez Montañés fechada en 1615. Fue restaurada en 1974 por Peláez del Espino y en 1996 por los hermanos Cruz Solís e Isabel Poza Villacañas en la sede del Instituto Andaluz de Patrimonio Histórico de la Junta de Andalucía",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Madre y Señora de la Merced",
+      "descripcion": "La imagen de la Virgen fue realizada en 1966 por Sebastián Santos y restaurada en verano de 2009 por Enrique Gutiérrez Carrasquilla. La imagen de San Juan fue tallada en 1862 por Gabriel de Astorga y restaurada en 2009 por Enrique Gutiérrez Carrasquilla",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.389861,-5.993292"
+}

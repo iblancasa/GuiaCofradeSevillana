@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/madruga/calvario/",
+  "titulo": "Pontificia y Real Hermandad y Cofradía de Nazarenos del Santísimo Cristo del Calvario y Nuestra Señora de la Presentación",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo del Calvario",
+      "descripcion": "Fue tallada en 1612 por Francisco de Ocampo y restaurada en 1940 y en 1988; lleva potencias en oro de ley. El paso es de estilo neobarroco, en madera de caoba, alumbrado por cuatro hachones de cera color tiniebla",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Presentación",
+      "descripcion": " La imagen fue realizada en el siglo XIX (primera mitad se estima) por (atribuida) Juan de Astorga. Destaca la colocación de sus manos, así como las grandes pestañas postizas que pretenden conferirle realismo a la imagen. Lleva corona de plata dorada y manto realizado en terciopelo azul con bordados en oro, obra del taller de Juan Manuel Rodríguez Ojeda. El paso de palio tiene parte de su orfebrería en plata de ley, con respiraderos y varales, y el resto de la orfebrería es plateada. Lleva una miniatura de la Inmaculada en plata de ley. El techo de palio es de terciopelo burdeos con bordados en oro, también realizado por Rodríguez Ojeda, y estrenado junto al manto en el año 1916.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.39021,-5.998483"
+}

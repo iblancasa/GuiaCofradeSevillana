@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/juevessanto/valle/",
+  "titulo": "Pontificia Real y Primitiva Archicofradía de Nazarenos del Santísimo Cristo de la Coronación de Espinas, Nuestro Padre Jesús con la Cruz al Hombro, Nuestra Señora del Valle y Santa Mujer Verónica",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús con la Cruz al Hombro",
+      "descripcion": "Denominado primitivamente con el nombre genérico de Jesús de la Cruz a Cuesta, Nuestro Padre Jesús con la Cruz al Hombro es de origen y autor desconocido. Documentalmente este Nazareno es citado en 1687, en el testamento del Mayordomo de la Hermandad Toribio Martínez de Huerta y en los propios archivos de la Hermandad entre los años 1735 y 1754",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de la Coronación de Espinas",
+      "descripcion": "El maestro escultor y ensamblador Agustín de Perea talló la imagen del Cristo de la Coronación de Espinas en el año 1687. La imagen fue donada por el Mayordomo de la Hermandad, Toribio Martínez de Huertas. La figura del Cristo de la Coronación de Espinas es una escultura de 134 centímetros de altura, policromada y tallada en varias maderas, como el ciprés y la cedrela. La cabeza está cubierta por una corona de espinas superpuesta y su expresión se intensifica por la abundante sangre que mana de su cabeza y corre por su cuerpo",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora del Valle",
+      "descripcion": "No existen documentos que acrediten el origen y el autor de la imagen de Nuestra Señora del Valle. Insignes investigadores como González de León en 1852, Bermejo y Carballo en 1882 y Pérez Porto a principios del siglo XX, atribuyen la autoría de la imagen a Juan Martínez Montañés (1568 - 1649). Sin embargo, los profesores Hernández Díaz y de la Banda y Vargas, así como los historiadores Bernales Ballesteros y García de la Concha, asignan la autoría de la imagen a Juan de Mesa (1583 - 1627) y el origen de su talla entre 1618 y 1627",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.392813,-5.992565"
+}

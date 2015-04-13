@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/martessanto/candelaria/",
+  "titulo": "Ilustre y Fervorosa Hermandad Sacramental de Nuestro Padre Jesús de la Salud, María Santísima de la Candelaria y Nuestra Señora del Subterráneo",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Presentación de Jesús al Pueblo",
+      "descripcion": "La imagen de Cristo es de origen anónimo, del siglo XVII, siendo restaurado en 1922, en 1979 y en 1998",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de la Sangre",
+      "descripcion": "La Virgen es tallada en 1923, restaurada en 1967 de Manuel Galiano Delgado",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.388447,-5.989214"
+}

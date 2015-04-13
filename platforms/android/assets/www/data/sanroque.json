@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/domingoderamos/sanroque/",
+  "titulo": "Real, Ilustre y Fervorosa Archicofradía del Santísimo Sacramento, Pura y Limpia Concepción y Ánimas Benditas, Santísimo Cristo de San Agustín y Hermandad de Nazarenos de Nuestro Padre Jesús de las Penas y Nuestra Señora de Gracia y Esperanza",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de las Penas",
+      "descripcion": "Realizada en 1939 por el escultor Antonio Illanes Rodríguez, fue expuesta por su autor en el Ateneo sevillano. La corporación decidió adquirirla después",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de Gracia y Esperanza",
+      "descripcion": "La imagen fue realizada en 1939 por José Rodríguez Fernández-Andés.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.390861,-5.983952"
+}

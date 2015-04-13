@@ -1,0 +1,72 @@
+
+#hermandad{
+  z-index: 5;
+  background-color: #fff;
+  max-width: 100%;
+  position: absolute;
+}
+
+#hermandad header{
+  top:0;
+       left:0;
+       right:0;
+       bottom:0;
+
+}
+
+#hermandad header > img{
+  width:100%;
+}
+
+#textoHermandad{
+  text-align: justify;
+  padding:0px;
+  border: 0px;
+}
+
+
+#tituloHermandad{
+    font-size: 2rem;
+}
+
+#escudo{
+  width:100px;
+  display:block;
+  margin: 0 auto;
+}
+
+.titular{
+  margin-bottom: 7rem;
+}
+
+.titular h3{
+  font-weight: bold;
+  clear:both;
+}
+
+.titular img{
+  float:left;
+  margin-right:2%;
+}
+
+#ir{
+  width:100%;
+}
+
+#lista{
+  z-index: 6;
+  width:100%;
+  background-color: #fff;
+  max-width: 100%;
+  position: absolute;
+}
+
+#lista >ul >li > a{
+  background:#ffffff;
+  color:#000000;
+}
+
+#lista >ul >li > a:hover{
+  background:#3A0E55;
+  color:#ffffff;
+}

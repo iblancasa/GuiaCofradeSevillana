@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/viernessanto/lao/",
+  "titulo": "Pontificia, Real e Ilustre Archicofradía del Santísimo Sacramento, Nuestro Padre Jesús Nazareno y María Santísima de la 0",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Nazareno",
+      "descripcion": "La imagen de Jesús es tallada por Pedro Roldán en 1685, en 1937 fue resturada, siéndolo de nuevo el año 1993.  El paso del Señor es tallado por José Martínez, de estilo neobarroco, dorado y alumbrado por cuatro faroles de metal dorado. Tiene tallas de evangelistas de Rafael Barbero, restaurados por David Segarra en 2012. Entre el año 2013 y 2015 el escultor sevillano David Segarra realiza ocho nuevos relieves y cuatro cabezas de ángeles querubines. El Señor lleva potencias de plata dorada, hechas en 1994, y la cruz que lleva es de carey y plata, realizada en 1731",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la 0",
+      "descripcion": "El paso de palio de María Santísima de la O tiene orfebrería plateada. La Virgen posee dos coronas de plata sobredorada, realizadas en 1936 y 1975. A consecuencia de su Coronación Canónica, el año 2007, posee corona de oro de ley. El palio es rojo burdeos con bambalinas y techo bordados en oro a realce y manto de terciopelo rojo burdeos con bordado en oro a realce. La imagen de la Virgen fue realizada por Castillo Lastrucci en 1937, sustituyendo a la anterior, que fue destruida en los sucesos acaecidos durante la Guerra Civil.",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.38695,-6.005227"
+}

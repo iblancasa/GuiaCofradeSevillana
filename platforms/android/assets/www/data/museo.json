@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/museo/",
+  "titulo": "Real, Ilustre y Fervorosa Hermandad del Santísimo Sacramento y Archicofradía de Nazarenos de la Sagrada Expiración de Ntro. Señor Jesucristo y María Stma. de las Aguas",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrada Expiración de Nuestro Señor Jesucristo",
+      "descripcion": "El Señor de la Sagrada Expiración es una obra de pasta de madera indiana realizada por Marcos Cabrera (1575). Representa a Jesucristo crucificado en el momento de su agonía y expiración. Lleva potencias de oro",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de las Aguas",
+      "descripcion": "La Virgen de las Aguas fue modelada en barro por Cristóbal Ramos (1722) y la readaptó Sebastián Santos en 1962",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.393008,-5.999705"
+}

@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/martessanto/sanesteban/",
+  "titulo": "Fervorosa Hermandad y Cofradía de Nazarenos de Nuestro Padre Jesús de la Salud y Buen Viaje, María Santísima Madre de los Desamparados, San Juan de Ribera y Protomártir San Esteban",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Salud y Buen Viaje",
+      "descripcion": "La imagen del Señor de la Salud y Buen Viaje, de autor desconocido, reúne las características de estilo de la imaginería de mediados del siglo XVIII, sin embargo, el hecho de que su cabeza sea de barro cocido, mientras que el resto del cuerpo es de madera tallada, hace pensar que éste último se esculpiese para completar el busto que sería de época anterior y cuya ejecución podría fecharse a principios del siglo XVI",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima Madre de los Desamparados",
+      "descripcion": "Manuel Galiano Delgado fue el autor de la Virgen de los Desamparados, sin embargo la Hermandad no conserva el contrato de su ejecución ni ningún documento de encargo, el único testimonio escrito lo encontramos en la página 47 del primer libro de actas de Cabildos de Oficiales",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.389771,-5.986258"
+}

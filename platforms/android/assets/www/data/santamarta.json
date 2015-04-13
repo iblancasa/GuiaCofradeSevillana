@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/lunessanto/santamarta/",
+  "titulo": "Real, Muy Ilustre y Venerable Hermandad del Santísimo Sacramento, Inmaculada Concepción, Ánimas Benditas y Cofradía de Nazarenos del Santísimo Cristo de la Caridad en su Traslado al Sepulcro, Ntra. Sra. de las Penas y Santa Marta",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Caridad en su Traslado al Sepulcro",
+      "descripcion": "Se representa a Jesús siendo trasladado al sepulcro por José de Arimatea y Nicodemo, en presencia de San Juan, las Tres Marías, Santa Marta y la Virgen de las Penas. El Cristo fue realizado en 1953 por Ortega Bru, al igual que las tallas de San Juan, los Santos Varones y las Tres Marías",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de las Penas",
+      "descripcion": "La Virgen fue realizada en 1958 y Santa Marta en 1950 por Sebastián Santos",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.394542,-5.994204"
+}

@@ -1,0 +1,12 @@
+{
+  "carpeta": "img/hermandades/visperas/corona/",
+  "titulo": "Hermandad del Santísimo Cristo de la Corona y Nuestra Señora del Rosario.",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Corona",
+      "descripcion": "El paso, aún no concluido, sobre el que procesiona el Cristo de la Corona fue diseñado por Antonio Dubé de Luque, siendo uno de los objetivos de la hermandad su terminación y enriquecimiento durante los próximos años. De estilo renacentista, estará realizado en madera en color caoba con relieves en bronce. A su conclusión contará con imágenes de los cuatro evangelistas en las esquina, inspirados en los que están en la balaustrada interior de la Iglesia del Sagrario y con cuatro relieves donde se podrán apreciar las escenas de la Crucifixión, Descendimiento, La Piedad y Sagrado Sepulcro. En los respiraderos está proyectado que aparezcan los cuatro padres de la Iglesia Latina y los cuatro de la Oriental. Los faldones por su parte tendrán el frontal bordado con el escudo del Cabildo Catedralicio (la Giralda y las dos azucenas). El canasto contará con un sobrecanasto cuya crestería será una reproducción de la balaustrada externa de la Iglesia del Sagrario. A los pies del cristo en su estación de penitencia aparecen dos pequeños angelitos portando entre sus manos la corona de espinas de donde recibe la imagen su advocación. En el año 2010 se estrenó la talla del frontal del paso, de Francisco Verdugo, y dos modelos de los apóstoles, que posteriormente irán labrados en bronce, a cargo de Antonio José Dubé Herdugo. En 2011 estrenó nuevos faroles para el paso procesional realizados en madera por Enrique Gonzalves González que posteriormente irán tallados por Francisco Verdugo. Como curiosidad el remate de los faroles estará inspirado en la cúpula de la Iglesia del Sagrario.",
+      "imagen": "primero.png"
+    }
+  },
+  "coordenadas": "37.386194,-5.994096"
+}

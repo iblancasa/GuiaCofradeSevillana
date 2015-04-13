@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/madruga/silencio/",
+  "titulo": "Primitiva Hermandad de los Nazarenos de Sevilla, Archicofradía Pontificia y Real de Nuestro Padre Jesús Nazareno, Santa Cruz en Jerusalén y María Santísima de la Concepción",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Nazareno",
+      "descripcion": "Es de autor desconocido, ha sido atribuida tradicionalmente a Francisco de Ocampo aunque las últimas corrientes se inclinan por atribuirla al escultor Gaspar de la Cueva, discípulo de Martínez Montañés, fue realizada en 1609, restaurada en 1784, 1912, 1942 y 1978. La imagen de Nuestro Padre Jesús Nazareno, totalmente anatomizada, es de madera de cedro, con encarnadura con la técnica del pulimento, y está en posesión de la Hermandad desde principios del siglo XVII. Aunque no se encuentra documentada, por sus líneas estéticas y por la semejanza con el Nazareno de Carmona (Sevilla), Convento de la Concepción y Parroquia de San Bartolomé, es obra atribuible al círculo de Francisco de Ocampo y Felguera. El hecho de que lleve la Cruz en posición inversa a la de los otros Nazarenos sevillanos es una prueba de antigüedad, dentro del estilo manierista, pues así lo interpretaban los artistas del Renacimiento, divulgado en la Escuela Sevillana por grabados europeos, especialmente \"El Pasmo de Sicilia\" de Rafael Sanzio de Urbino. La Santa Cruz es de madera de teca, revestida de planchas de carey con cantoneras de plata labrada, y la posee la Hermandad desde el primer tercio del siglo XVII, siendo donada por Juan Leonel Gómez de Cervantes y Carvajal y por Juan de Cervantes y Casaús, residentes en Nueva España (México).",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Concepción",
+      "descripcion": "La imagen de la Virgen de la Concepción es obra del escultor del siglo XX Sebastián Santos Rojas. Fue adquirida por la Hermandad en 1954 para sustituir a otra muy antigua, con mascarilla de Cristóbal Ramos, que había sufrido graves deterioros con el paso del tiempo. Fue bendecida ese mismo año por el canónigo de la Catedral de Sevilla D. José Sebastián y Bandarán. Durante el mes de noviembre de 2009 fue intervenida por el profesor Enrique Gutiérrez Carrasquilla, consistiendo dicha intervención en una limpieza superficial de la policromía externa de la Imagen, concretamente en la cara, cuello y manos de ésta. Las ricas vestiduras de terciopelo de seda bordadas en oro que lucen estas imágenes en la procesión de penitencia en la Madrugada del Viernes Santo, así como el techo de palio y los faldones, fueron confeccionadas en los talleres de Hijos de Miguel Olmo, estrenándose entre 1919 y 1922. Los bordados pertenecen al estilo barroco con aditamentos de motivos mudéjares. Los dibujos fueron originales de la hermana de la Archicofradía, doña Herminia Álvarez Udell; han sido restaurados y pasados a nuevos terciopelos por los talleres de \"Santa Bárbara\" entre 1997-2000",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.392765,-5.996692"
+}

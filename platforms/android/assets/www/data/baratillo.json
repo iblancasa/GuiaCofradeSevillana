@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/baratillo/",
+  "titulo": "Antigua y Fervorosa Hermandad de la Santa Cruz y Cofradía de Nazarenos del Santísimo Cristo de la Misericordia y Ntra. Señora de la Piedad, Patriarca Bendito Señor San José y María Santísima de la Caridad en su Soledad",
+  "titulares":{
+    "primero":{
+      "nombre":"Santísimo Cristo de la Misericordia",
+      "descripcion": "El Cristo yacente fue realizado en 1950 por Luis Ortega Bru.  El paso de Cristo es de estilo neobarroco, dorado, iluminado por candelabros de guardabrisas y con guardabrisones. La Virgen de la Piedad lleva manto en terciopelo azul y saya, con bordados y diadema de plata dorada. La cruz tiene casquetes en plata dorada",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Nuestra Señora de la Piedad",
+      "descripcion": "La talla de la Virgen de la Piedad data de 1945 y las manos se tallaron en 1904",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"María Santísima de la Caridad en su Soledad",
+      "descripcion": "La Virgen de la Caridad es tallada en 1931 por Fernández-Andes.  El paso de palio tiene orfebrería en plata de ley en los respiraderos con capillas y varales. La candelería es plateada. El palio es de 1954, y el manto de 1963, en terciopelo morado y bordados en oro. La Virgen lleva corona en plata dorada, hecha en 1960",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.386441,-5.997517"
+}

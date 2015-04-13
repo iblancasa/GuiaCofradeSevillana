@@ -1,0 +1,17 @@
+{
+  "carpeta": "img/hermandades/viernessanto/mortaja/",
+  "titulo": "Antigua, Real e Ilustre Hermandad de Nazarenos de Nuestro Padre Jesús Descendido de la Cruz en el Misterio de su Sagrada Mortaja y María Santísima de la Piedad",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús Descendido de la Cruz en el Misterio de su Sagrada Mortaja",
+      "descripcion": " La imagen de Jesús es tallada en 1677 por Cristóbal Pérez, restaurada en 1999 por Juan Manuel Miñarro",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"María Santísima de la Piedad",
+      "descripcion": "Alrededor de 1676 atribuyéndose su ejecución al taller de Pedro Roldán. La Virgen de la Piedad luce diadema en plata dorada realizada en 1939 por Emilio Landa, y manto bordado en los talleres de Elena Caro en 1979, según el diseño del anterior de Juan Manuel Rodríguez Ojeda, quien realizó los bordados de los vestidos del resto de las imágenes del misterio en 1906",
+      "imagen": "segundo.png"
+    }
+  },
+  "coordenadas": "37.394522,-5.988256"
+}

@@ -1,0 +1,27 @@
+{
+  "carpeta": "img/hermandades/miercolessanto/sietepalabras/",
+  "titulo": "Real e Ilustre Hermandad Sacramental de Nuestra Señora del Rosario, Animas Benditas del Purgatorio y Primitiva Archicofradía del Sagrado Corazón y Clavos de Jesús, Nuestro Padre Jesús de la Divina Misericordia, Santísimo Cristo de las Siete Palabras, María Santísima de los Remedios, Nuestra Señora de la Cabeza y San Juan Evangelista",
+  "titulares":{
+    "primero":{
+      "nombre":"Nuestro Padre Jesús de la Divina Misericordia",
+      "descripcion": "La efigie de Jesús con la Cruz a Cuestas (desde 1.966 Divina Misericordia) es obra de 1641 del escultor cordobés Felipe de Ribas (1609-1648). Se trata del tercero de la serie de este artista que representa el tema del Nazareno. La cabeza responde a la tipología creada por Ribas: mechón de pelo vuelto hacia atrás para sujetar la corona y rostro de serena expresión con las invariantes propias del autor (pliegue del entrecejo, bigote caído sobre la barba y ojos abultados). En 1977 es restaurado por Ortega Brú, quien le realiza un nuevo cuerpo y limpia la policromía, además de añadir pigmento a los ojos. La cabeza corresponde a la parte original de la imagen y se encuentra ensamblada al cuerpo a la altura de las clavículas. El cuerpo, los brazos y las piernas son resultado de la reposición efectuada por el escultor Ortega Brú. El aspecto superficial de la cara es muy liso y pulido como corresponde a la época de ejecución de la talla. Está realizada al óleo (pigmentos aglutinados en aceite secativo) y pulida en superficie. En el cuerpo y piernas se aprecia la existencia una policromía diferente tanto por su colorido como por su textura, de color rosáceo con mayor o menor variedad de matices según las zonas. La policromía original de la cabeza y manos actualmente se presenta en su mayoría recubierta por los repintes existentes en estas zonas.",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de las Siete Palabras",
+      "descripcion": "El Crucificado de Las Siete Palabras es una escultura barroca de calidad, original del imaginero Felipe Martínez construida entre 1681 y 1682; fue repolicromado por Emilio Pizarro Cruz en 1881, quien introdujo importantes modificaciones formales tanto en su estructura como en su policromía. Titular de la extinguida Hermandad de la Sangre, procede del oratorio de la familia Cisneros a donde llegó desde el convento de San Francisco de Paula",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"María Santísima de los Remedios",
+      "descripcion": "La imagen de Maria Santisima de los Remedios (1865) es obra de Manuel Gutiérrez Reyes-Cano (1845-1915). Su aspecto actual corresponde a la intervención de Jesús Curquejo Murillo (1991)",
+      "imagen": "tercero.png"
+    },
+    "cuarto":{
+      "nombre":"Nuestra Señora de la Cabeza",
+      "descripcion": "La imagen de Nuestra Señora de la Cabeza originariamente era una imagen de un arcangel de Emilio Pizarro de la Cruz (finales del s. XIX), adaptada a dolorosa. Restaurada por Manuel Escamilla en 1956, quien años más tarde vuelve a restaurarla. En 2008 el restaurador Pedro Manzano interviene sobre la imagen para efectuar labores de limpieza",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.394561,-5.998897"
+}

@@ -1,0 +1,22 @@
+{
+  "carpeta": "img/hermandades/sabadosanto/trinidad/",
+  "titulo": "Pontificia, Real, Muy Ilustre y Trinitaria Hermandad Sacramental y Archicofradía de Nazarenos del Sagrado Decreto de la Santísima Trinidad, Santísimo Cristo de las Cinco Llagas, María Santísima de la Concepción, Nuestra Señora de la Esperanza Coronada y San Juan Bosco",
+  "titulares":{
+    "primero":{
+      "nombre":"Sagrado Decreto de la Santísima Trinidad",
+      "descripcion": "El primer paso representa la alegoría del Sagrado Decreto de la Trinidad, con Dios-Padre, Dios-Hijo, que lleva una cruz y Espíritu Santo, sobre un trono. En él aparecen alegóricamente, un Ángel como El amor divino, una matrona como la Iglesia Dormida, San Gregorio, San Ambrosio, San Agustín y San Jerónimo como la Iglesia Triunfante, la Fe, cubierta con un velo, y la Gracia Santificante. En el segundo paso vemos a Jesús crucificado delante de la Virgen de la Concepción, San Juan, las Tres Marías y los Santos Varones. En el paso de palio, la Virgen de la Esperanza bajo palio. La imagen de Dios-Padre es de origen anónimo del siglo XVII, el Dios-Hijo es tallado en 1913, la figura del Espíritu Santo es de origen anónimo. La imagen del Ángel es tallada en 1907, la matrona es realizada en 1939, las figuras de San Gregorio, San Ambrosio, San Agustín y San Jerónimo son realizadas en los años 1994, 1995, 1996 y 1997 respectivamente, la imagen de la Fe y la Gracia Santificante son talladas en 1996",
+      "imagen": "primero.png"
+    },
+    "segundo":{
+      "nombre":"Santísimo Cristo de las Cinco Llagas",
+      "descripcion": "La imagen de Jesús crucificado es realizada en 2002, la Virgen de la Concepción es tallada en 1958, las figuras de San Juan, las Tres Marías y los Santos Varones son todas realizadas entre 1917 y 1924, excepto la imagen de Nicodemo es tallada en 1998, y una de las Marías que está realizada en 1917",
+      "imagen": "segundo.png"
+    },
+    "tercero":{
+      "nombre":"Nuestra Señora de la Esperanza Coronada",
+      "descripcion": "La imagen de la Virgen de la Esperanza data de 1820.",
+      "imagen": "tercero.png"
+    }
+  },
+  "coordenadas": "37.397282,-5.98148"
+}
