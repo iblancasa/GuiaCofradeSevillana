@@ -15,26 +15,6 @@ var mapOptions = {
   center: new google.maps.LatLng(37.3890118,-5.9842985)
 };
 
-function cargar(hermandad){
-  var archivo = datadir+hermandad+".json";
-
-  var xhr = $.ajax({
-  url: archivo,
-  crossDomain: true,
-  jsonpCallback: 'cb',
-  dataType: 'json'
-  });
-
-  xhr.done(function (data) {
-    var ctx = data;
-    var html = tmpl(ctx);
-    $("#hermandad").html(html);
-    $( "#cerrar" ).click(function() {
-      $("#hermandad").fadeOut(500);
-    });
-    $("#hermandad").fadeIn( "slow");
-  });
-}
 
 
 

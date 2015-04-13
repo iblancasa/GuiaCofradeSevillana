@@ -14,13 +14,12 @@
   <script src="js/map.js"></script>
 </head>
 
-<body  style="width:100%; height:100%">
-  <div id="page" data-role="page"  style="width:100%; height:100%">
+<body  >
+  <div id="page" data-role="page" >
     <div data-role="panel" id="panel" data-position="left" data-theme="a" data-display="push">
       <ul data-role="listview" data-inset="false" data-filter="false">
-          <li><a  href="#">Mapa</a></li>
-          <li><a href="#">Hermandades</a></li>
-          <li><a href="#">Créditos</a></li>
+          <li><a id="buttonMap" href="#">Mapa</a></li>
+          <li><a id="buttonHer" href="#">Hermandades</a></li>
       </ul>
     </div>
 
@@ -30,6 +29,91 @@
     </div>
 
     <div id="hermandad" data-role="content" role="main"  >
+    </div>
+
+    <div id="lista" data-role="content" role="main"  >
+      <form class="ui-filterable">
+  <input id="myFilter" data-type="search">
+</form>
+      <ul data-role="listview" data-filter="true" data-input="#myFilter" data-autodividers="false" data-inset="true">
+      	<li data-role="list-divider">Vísperas</li>
+      	<li><a onclick="cargar('sanjoseobrero');" class="listaH" href="#">San José Obrero</a></li>
+      	<li><a onclick="cargar('torreblanca');" class="listaH" href="#">Torreblanca</a></li>
+      	<li><a onclick="cargar('divinoperdon');" class="listaH" href="#">Divino Perdón</a></li>
+      	<li><a onclick="cargar('pasionymuerte');" class="listaH" href="#">Pasión y Muerte</a></li>
+      	<li><a onclick="cargar('lamision');" class="listaH" href="#">La Misión</a></li>
+      	<li><a onclick="cargar('pinomontano');" class="listaH" href="#">Pino Montano</a></li>
+      	<li><a onclick="cargar('dulcenombre');" class="listaH" href="#">Dulce Nombre Bellavista</a></li>
+      	<li><a onclick="cargar('padrepio');" class="listaH" href="#">Padre Pío</a></li>
+      	<li><a onclick="cargar('corona');" class="listaH" href="#">Cristo de la Corona</a></li>
+      	<li data-role="list-divider">Domingo de Ramos</li>
+      	<li><a onclick="cargar('despojado');" class="listaH" href="#">Despojado</a></li>
+      	<li><a onclick="cargar('paz');" class="listaH" href="#">La Paz</a></li>
+      	<li><a onclick="cargar('cena');" class="listaH" href="#">La Cena</a></li>
+      	<li><a onclick="cargar('hiniesta');" class="listaH" href="#">La Hiniesta</a></li>
+      	<li><a onclick="cargar('estrella');" class="listaH" href="#">Estrella</a></li>
+      	<li><a onclick="cargar('amargura');" class="listaH" href="#">Amargura</a></li>
+      	<li><a onclick="cargar('amor');" class="listaH" href="#">El Amor</a></li>
+        <li><a onclick="cargar('sanroque');" class="listaH" href="#">San Roque</a></li>
+      	<li data-role="list-divider">Lunes Santo</li>
+      	<li><a onclick="cargar('sanpablo');" class="listaH" href="#">Polígono de San Pablo</a></li>
+      	<li><a onclick="cargar('redencion');" class="listaH" href="#">Redención</a></li>
+      	<li><a onclick="cargar('santagenoveva');" class="listaH" href="#">Santa Genoveva</a></li>
+      	<li><a onclick="cargar('santamarta');" class="listaH" href="#">Santa Marta</a></li>
+      	<li><a onclick="cargar('sangonzalo');" class="listaH" href="#">San Gonzalo</a></li>
+      	<li><a onclick="cargar('veracruz');" class="listaH" href="#">Vera Cruz</a></li>
+      	<li><a onclick="cargar('penas');" class="listaH" href="#">Penas de San Vicente</a></li>
+      	<li><a onclick="cargar('aguas');" class="listaH" href="#">Las Aguas</a></li>
+      	<li><a onclick="cargar('museo');" class="listaH" href="#">El Museo</a></li>
+      	<li data-role="list-divider">Martes Santo</li>
+      	<li><a onclick="cargar('cerro');" class="listaH" href="#">El Cerro</a></li>
+      	<li><a onclick="cargar('losjavieres');" class="listaH" href="#">Los Javieres</a></li>
+      	<li><a onclick="cargar('sanesteban');" class="listaH" href="#">San Esteban</a></li>
+      	<li><a onclick="cargar('estudiantes');" class="listaH" href="#">Los Estudiantes</a></li>
+      	<li><a onclick="cargar('sanbenito');" class="listaH" href="#">San Benito</a></li>
+      	<li><a onclick="cargar('candelaria');" class="listaH" href="#">La Candelaria</a></li>
+      	<li><a onclick="cargar('bofeta');" class="listaH" href="#">La Bofetá</a></li>
+      	<li><a onclick="cargar('santacruz');" class="listaH" href="#">Santa Cruz</a></li>
+      	<li data-role="list-divider">Miércoles Santo</li>
+      	<li><a onclick="cargar('carmendoloroso');" class="listaH" href="#">Carmen Doloroso</a></li>
+      	<li><a onclick="cargar('sed');" class="listaH" href="#">La Sed</a></li>
+      	<li><a onclick="cargar('sanbernardo');" class="listaH" href="#">San Bernardo</a></li>
+      	<li><a onclick="cargar('buenfin');" class="listaH" href="#">El Buen Fin</a></li>
+      	<li><a onclick="cargar('baratillo');" class="listaH" href="#">El Baratillo</a></li>
+      	<li><a onclick="cargar('burgos');" class="listaH" href="#">Cristo de Burgos</a></li>
+      	<li><a onclick="cargar('sietepalabras');" class="listaH" href="#">Las Siete Palabras</a></li>
+      	<li><a onclick="cargar('panaderos');" class="listaH" href="#">Los Panaderos</a></li>
+      	<li data-role="list-divider">Jueves Santo</li>
+      	<li><a onclick="cargar('negritos');" class="listaH" href="#">Los Negritos</a></li>
+      	<li><a onclick="cargar('exaltacion');" class="listaH" href="#">La Exaltación</a></li>
+      	<li><a onclick="cargar('cigarreras');" class="listaH" href="#">Las Cigarreras</a></li>
+      	<li><a onclick="cargar('montesion');" class="listaH" href="#">Monte-Sión</a></li>
+      	<li><a onclick="cargar('quintaangustia');" class="listaH" href="#">La Quinta Angustia</a></li>
+      	<li><a onclick="cargar('valle');" class="listaH" href="#">El Valle</a></li>
+      	<li><a onclick="cargar('pasion');" class="listaH" href="#">Pasión</a></li>
+      	<li data-role="list-divider">Madrugá</li>
+      	<li><a onclick="cargar('silencio');" class="listaH" href="#">El Silencio</a></li>
+      	<li><a onclick="cargar('granpoder');" class="listaH" href="#">Gran Poder</a></li>
+      	<li><a onclick="cargar('macarena');" class="listaH" href="#">Macarena</a></li>
+      	<li><a onclick="cargar('calvario');" class="listaH" href="#">El Calvario</a></li>
+      	<li><a onclick="cargar('triana');" class="listaH" href="#">Esperanza de Triana</a></li>
+      	<li><a onclick="cargar('gitanos');" class="listaH" href="#">Los Gitanos</a></li>
+      	<li data-role="list-divider">Viernes Santo</li>
+      	<li><a onclick="cargar('carreteria');" class="listaH" href="#">La Carretería</a></li>
+      	<li><a onclick="cargar('soledadsanbuenaventura');" class="listaH" href="#">Soledad Sanbuenaventura</a></li>
+      	<li><a onclick="cargar('cachorro');" class="listaH" href="#">El Cachorro</a></li>
+      	<li><a onclick="cargar('lao');" class="listaH" href="#">La O</a></li>
+      	<li><a onclick="cargar('sanisidoro');" class="listaH" href="#">San Isidoro</a></li>
+      	<li><a onclick="cargar('monserrat');" class="listaH" href="#">Monserrat</a></li>
+      	<li><a onclick="cargar('mortaja');" class="listaH" href="#">La Mortaja</a></li>
+      	<li data-role="list-divider">Sábado Santo</li>
+      	<li><a onclick="cargar('sol');" class="listaH" href="#">El Sol</a></li>
+      	<li><a onclick="cargar('servitas');" class="listaH" href="#">Los Servitas</a></li>
+      	<li><a onclick="cargar('trinidad');" class="listaH" href="#">La Trinidad</a></li>
+      	<li><a onclick="cargar('soledadsanlorenzo');" class="listaH" href="#">Soledad de San Lorenzo</a></li>
+      	<li data-role="list-divider">Domingo de Resurrección</li>
+      	<li><a onclick="cargar('resurreccion');" class="listaH" href="#">La Resurrección</a></li>
+      </ul>
     </div>
 
     <div id="map-canvas" data-role="content" role="main">
@@ -42,10 +126,44 @@
 <script type="text/javascript" src="js/helpers.js"></script>
 
 <script>
+$("#lista").hide();
 $("#hermandad").hide();
 $( "#cerrar" ).click(function() {
   $("#hermandad").fadeOut(500);
 });
+
+$("#buttonHer").click(function() {
+  $("#lista").fadeIn( "slow");
+});
+
+$("#buttonMap").click(function() {
+  $("#lista").hide();
+  $("#hermandad").hide();
+});
+
+
+function cargar(hermandad){
+  var archivo = datadir+hermandad+".json";
+
+  var xhr = $.ajax({
+  url: archivo,
+  crossDomain: true,
+  jsonpCallback: 'cb',
+  dataType: 'json'
+  });
+
+  xhr.done(function (data) {
+    $("#lista").hide();
+    var ctx = data;
+    var html = tmpl(ctx);
+    $("#hermandad").html(html);
+    $( "#cerrar" ).click(function() {
+      $("#hermandad").fadeOut(500);
+    });
+    $("#hermandad").fadeIn( "slow");
+  });
+}
+
 </script>
 
 </html>
